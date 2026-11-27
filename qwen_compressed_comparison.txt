@@ -1,0 +1,10 @@
+
+qwen_extractive_128 | Memory tokens mean 104.95 | Full prompt tokens mean 244.78 vs 572.81 (57.3% fewer)
+factual_recall: 110/320 vs 286/320 | delta -55.00 pp | paired family bootstrap 95% interval [-67.50, -42.19] pp | 23 gains / 199 losses
+reference_resolution: 219/320 vs 274/320 | delta -17.19 pp | paired family bootstrap 95% interval [-21.56, -12.50] pp | 22 gains / 77 losses
+grounding_status: 143/320 vs 171/320 | delta -8.75 pp | paired family bootstrap 95% interval [-15.94, -1.56] pp | 42 gains / 70 losses
+
+qwen_extractive_256 | Memory tokens mean 242.95 | Full prompt tokens mean 382.77 vs 572.81 (33.2% fewer)
+factual_recall: 212/320 vs 286/320 | delta -23.12 pp | paired family bootstrap 95% interval [-33.44, -13.44] pp | 15 gains / 89 losses
+reference_resolution: 256/320 vs 274/320 | delta -5.62 pp | paired family bootstrap 95% interval [-11.25, +0.00] pp | 24 gains / 42 losses
+grounding_status: 130/320 vs 171/320 | delta -12.81 pp | paired family bootstrap 95% interval [-18.12, -7.81] pp | 12 gains / 53 losses

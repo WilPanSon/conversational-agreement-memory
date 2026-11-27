@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "quantization": "bitsandbytes NF4, float16 compute",
+  "gpu": "Tesla T4",
+  "transformers": "4.51.3",
+  "torch": "2.14.1+cu130",
+  "bitsandbytes": "0.50.2",
+  "batch_size": 8,
+  "max_new_tokens": 24,
+  "do_sample": false,
+  "prompt_file_sha256": "239eec8fa530ac154c00010cee03fb744c64b8e8dfa43a5ab6e4be7ce028e9d9"
+}

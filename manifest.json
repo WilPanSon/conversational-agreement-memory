@@ -1,0 +1,18 @@
+{
+  "seed": 20261119,
+  "families": 80,
+  "dialogues": 320,
+  "questions": 960,
+  "condition_counts": {
+    "accepted": 80,
+    "rejected": 80,
+    "unresolved": 80,
+    "revised": 80
+  },
+  "dialogue_turns": 24,
+  "update_blocks": 4,
+  "turns_per_block": 6,
+  "split": "development",
+  "pair_validation": "passed: accepted/rejected/unresolved differ in only the initial response; accepted/revised differ only in replacement response",
+  "caution": "Gold states are template-derived; manually review before using as final empirical labels."
+}

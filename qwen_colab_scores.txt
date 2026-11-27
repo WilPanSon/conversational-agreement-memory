@@ -1,0 +1,19 @@
+
+METHOD: qwen_full_history_colab
+Coverage: 960/960 (0 missing)
+factual_recall         all                 : 286/320 = 0.894 | coverage 320/320 | invalid 0
+factual_recall         condition:accepted  : 79/80 = 0.988 | coverage 80/80 | invalid 0
+factual_recall         condition:rejected  : 65/80 = 0.812 | coverage 80/80 | invalid 0
+factual_recall         condition:revised   : 75/80 = 0.938 | coverage 80/80 | invalid 0
+factual_recall         condition:unresolved: 67/80 = 0.838 | coverage 80/80 | invalid 0
+grounding_status       all                 : 171/320 = 0.534 | coverage 320/320 | invalid 0
+grounding_status       condition:accepted  : 27/80 = 0.338 | coverage 80/80 | invalid 0
+grounding_status       condition:rejected  : 43/80 = 0.537 | coverage 80/80 | invalid 0
+grounding_status       condition:revised   : 22/80 = 0.275 | coverage 80/80 | invalid 0
+grounding_status       condition:unresolved: 79/80 = 0.988 | coverage 80/80 | invalid 0
+reference_resolution   all                 : 274/320 = 0.856 | coverage 320/320 | invalid 0
+reference_resolution   condition:accepted  : 64/80 = 0.800 | coverage 80/80 | invalid 0
+reference_resolution   condition:rejected  : 75/80 = 0.938 | coverage 80/80 | invalid 0
+reference_resolution   condition:revised   : 64/80 = 0.800 | coverage 80/80 | invalid 0
+reference_resolution   condition:unresolved: 71/80 = 0.887 | coverage 80/80 | invalid 0
+False agreement rate (valid outputs): 14/160 = 0.087 | invalid 0

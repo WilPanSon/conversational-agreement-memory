@@ -1,0 +1,960 @@
+{"id": "005a7cc692bb148f425e204b", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_049", "condition": "accepted"}
+{"id": "005a7cc692bb148f425e204b", "question_type": "reference_resolution", "answer": "Model Birch", "family_id": "dev_family_049", "condition": "accepted"}
+{"id": "005a7cc692bb148f425e204b", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_049", "condition": "accepted"}
+{"id": "005ee4ff192fee681bc7dfc6", "question_type": "factual_recall", "answer": "Slide Intro", "family_id": "dev_family_036", "condition": "rejected"}
+{"id": "005ee4ff192fee681bc7dfc6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_036", "condition": "rejected"}
+{"id": "005ee4ff192fee681bc7dfc6", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_036", "condition": "rejected"}
+{"id": "007d3d7eccb4f11eb3995291", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_002", "condition": "unresolved"}
+{"id": "007d3d7eccb4f11eb3995291", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_002", "condition": "unresolved"}
+{"id": "007d3d7eccb4f11eb3995291", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_002", "condition": "unresolved"}
+{"id": "0183b2be884d3a00d423eb27", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_050", "condition": "rejected"}
+{"id": "0183b2be884d3a00d423eb27", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_050", "condition": "rejected"}
+{"id": "0183b2be884d3a00d423eb27", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_050", "condition": "rejected"}
+{"id": "029e2b4401e947703ab17f32", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_009", "condition": "accepted"}
+{"id": "029e2b4401e947703ab17f32", "question_type": "reference_resolution", "answer": "Document Summary", "family_id": "dev_family_009", "condition": "accepted"}
+{"id": "029e2b4401e947703ab17f32", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_009", "condition": "accepted"}
+{"id": "0376b9bee3b10aea59412ea5", "question_type": "factual_recall", "answer": "Experiment Delta", "family_id": "dev_family_051", "condition": "accepted"}
+{"id": "0376b9bee3b10aea59412ea5", "question_type": "reference_resolution", "answer": "Experiment Delta", "family_id": "dev_family_051", "condition": "accepted"}
+{"id": "0376b9bee3b10aea59412ea5", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_051", "condition": "accepted"}
+{"id": "0483478e764ca442e0ef6f72", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_002", "condition": "accepted"}
+{"id": "0483478e764ca442e0ef6f72", "question_type": "reference_resolution", "answer": "Folder East", "family_id": "dev_family_002", "condition": "accepted"}
+{"id": "0483478e764ca442e0ef6f72", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_002", "condition": "accepted"}
+{"id": "0666474eb7dfea8ef03245a4", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_004", "condition": "accepted"}
+{"id": "0666474eb7dfea8ef03245a4", "question_type": "reference_resolution", "answer": "Chart Usage", "family_id": "dev_family_004", "condition": "accepted"}
+{"id": "0666474eb7dfea8ef03245a4", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_004", "condition": "accepted"}
+{"id": "09d062dcf7f782fb71002db0", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_038", "condition": "rejected"}
+{"id": "09d062dcf7f782fb71002db0", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_038", "condition": "rejected"}
+{"id": "09d062dcf7f782fb71002db0", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_038", "condition": "rejected"}
+{"id": "0b847364ad0b89387a301216", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_034", "condition": "rejected"}
+{"id": "0b847364ad0b89387a301216", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_034", "condition": "rejected"}
+{"id": "0b847364ad0b89387a301216", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_034", "condition": "rejected"}
+{"id": "0bb2a15040936600a0da4e3e", "question_type": "factual_recall", "answer": "Workflow Approve", "family_id": "dev_family_022", "condition": "unresolved"}
+{"id": "0bb2a15040936600a0da4e3e", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_022", "condition": "unresolved"}
+{"id": "0bb2a15040936600a0da4e3e", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_022", "condition": "unresolved"}
+{"id": "0c8f0bebdedbc9c8f562027d", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_004", "condition": "revised"}
+{"id": "0c8f0bebdedbc9c8f562027d", "question_type": "reference_resolution", "answer": "Chart Volume", "family_id": "dev_family_004", "condition": "revised"}
+{"id": "0c8f0bebdedbc9c8f562027d", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_004", "condition": "revised"}
+{"id": "0e3794575cadb13161fd25aa", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_049", "condition": "rejected"}
+{"id": "0e3794575cadb13161fd25aa", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_049", "condition": "rejected"}
+{"id": "0e3794575cadb13161fd25aa", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_049", "condition": "rejected"}
+{"id": "0e77f40a15487a18d84ed9ef", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_057", "condition": "accepted"}
+{"id": "0e77f40a15487a18d84ed9ef", "question_type": "reference_resolution", "answer": "Document Summary", "family_id": "dev_family_057", "condition": "accepted"}
+{"id": "0e77f40a15487a18d84ed9ef", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_057", "condition": "accepted"}
+{"id": "0e785d25fbde707fe64a5384", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_058", "condition": "unresolved"}
+{"id": "0e785d25fbde707fe64a5384", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_058", "condition": "unresolved"}
+{"id": "0e785d25fbde707fe64a5384", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_058", "condition": "unresolved"}
+{"id": "0f19bfab8fb1f904458cffdb", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_005", "condition": "accepted"}
+{"id": "0f19bfab8fb1f904458cffdb", "question_type": "reference_resolution", "answer": "Room Hickory", "family_id": "dev_family_005", "condition": "accepted"}
+{"id": "0f19bfab8fb1f904458cffdb", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_005", "condition": "accepted"}
+{"id": "10a9497a1acd9400f173d25c", "question_type": "factual_recall", "answer": "Slide Intro", "family_id": "dev_family_036", "condition": "accepted"}
+{"id": "10a9497a1acd9400f173d25c", "question_type": "reference_resolution", "answer": "Slide Intro", "family_id": "dev_family_036", "condition": "accepted"}
+{"id": "10a9497a1acd9400f173d25c", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_036", "condition": "accepted"}
+{"id": "12ae1d1c596915f6b825fc7f", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_014", "condition": "unresolved"}
+{"id": "12ae1d1c596915f6b825fc7f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_014", "condition": "unresolved"}
+{"id": "12ae1d1c596915f6b825fc7f", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_014", "condition": "unresolved"}
+{"id": "12d0fd473673a04d46cf586a", "question_type": "factual_recall", "answer": "Prototype Small", "family_id": "dev_family_067", "condition": "accepted"}
+{"id": "12d0fd473673a04d46cf586a", "question_type": "reference_resolution", "answer": "Prototype Small", "family_id": "dev_family_067", "condition": "accepted"}
+{"id": "12d0fd473673a04d46cf586a", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_067", "condition": "accepted"}
+{"id": "12f3d33f28cc4c82f9282210", "question_type": "factual_recall", "answer": "Dataset Validation", "family_id": "dev_family_044", "condition": "rejected"}
+{"id": "12f3d33f28cc4c82f9282210", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_044", "condition": "rejected"}
+{"id": "12f3d33f28cc4c82f9282210", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_044", "condition": "rejected"}
+{"id": "1355efee25adbb806ad2bd01", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_057", "condition": "rejected"}
+{"id": "1355efee25adbb806ad2bd01", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_057", "condition": "rejected"}
+{"id": "1355efee25adbb806ad2bd01", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_057", "condition": "rejected"}
+{"id": "13eb0a12a2ba7f54697f5a51", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_009", "condition": "revised"}
+{"id": "13eb0a12a2ba7f54697f5a51", "question_type": "reference_resolution", "answer": "Document Notes", "family_id": "dev_family_009", "condition": "revised"}
+{"id": "13eb0a12a2ba7f54697f5a51", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_009", "condition": "revised"}
+{"id": "145360483e2248edc06c0ba0", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_006", "condition": "accepted"}
+{"id": "145360483e2248edc06c0ba0", "question_type": "reference_resolution", "answer": "Branch Amber", "family_id": "dev_family_006", "condition": "accepted"}
+{"id": "145360483e2248edc06c0ba0", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_006", "condition": "accepted"}
+{"id": "156dbf35621c46fc6bd19f32", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_006", "condition": "revised"}
+{"id": "156dbf35621c46fc6bd19f32", "question_type": "reference_resolution", "answer": "Branch Violet", "family_id": "dev_family_006", "condition": "revised"}
+{"id": "156dbf35621c46fc6bd19f32", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_006", "condition": "revised"}
+{"id": "16e7a01bfddb0f4c11e34943", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_027", "condition": "accepted"}
+{"id": "16e7a01bfddb0f4c11e34943", "question_type": "reference_resolution", "answer": "Experiment Alpha", "family_id": "dev_family_027", "condition": "accepted"}
+{"id": "16e7a01bfddb0f4c11e34943", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_027", "condition": "accepted"}
+{"id": "18afd2042b3a03d1f0923f2d", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_001", "condition": "revised"}
+{"id": "18afd2042b3a03d1f0923f2d", "question_type": "reference_resolution", "answer": "Model Elm", "family_id": "dev_family_001", "condition": "revised"}
+{"id": "18afd2042b3a03d1f0923f2d", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_001", "condition": "revised"}
+{"id": "192f8cac7b097bb3b7598fdf", "question_type": "factual_recall", "answer": "Model Aspen", "family_id": "dev_family_061", "condition": "rejected"}
+{"id": "192f8cac7b097bb3b7598fdf", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_061", "condition": "rejected"}
+{"id": "192f8cac7b097bb3b7598fdf", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_061", "condition": "rejected"}
+{"id": "1a38117861c78d0f77fa809c", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_034", "condition": "revised"}
+{"id": "1a38117861c78d0f77fa809c", "question_type": "reference_resolution", "answer": "Workflow Deploy", "family_id": "dev_family_034", "condition": "revised"}
+{"id": "1a38117861c78d0f77fa809c", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_034", "condition": "revised"}
+{"id": "1a9b67e82dffbcfb9a7638fb", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_015", "condition": "accepted"}
+{"id": "1a9b67e82dffbcfb9a7638fb", "question_type": "reference_resolution", "answer": "Experiment Zeta", "family_id": "dev_family_015", "condition": "accepted"}
+{"id": "1a9b67e82dffbcfb9a7638fb", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_015", "condition": "accepted"}
+{"id": "1c7cbee280436aba59bb2771", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_025", "condition": "accepted"}
+{"id": "1c7cbee280436aba59bb2771", "question_type": "reference_resolution", "answer": "Model Spruce", "family_id": "dev_family_025", "condition": "accepted"}
+{"id": "1c7cbee280436aba59bb2771", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_025", "condition": "accepted"}
+{"id": "1cab1629f12852525faed249", "question_type": "factual_recall", "answer": "Experiment Beta", "family_id": "dev_family_075", "condition": "unresolved"}
+{"id": "1cab1629f12852525faed249", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_075", "condition": "unresolved"}
+{"id": "1cab1629f12852525faed249", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_075", "condition": "unresolved"}
+{"id": "1ccc8edb2017610377f518ad", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_072", "condition": "revised"}
+{"id": "1ccc8edb2017610377f518ad", "question_type": "reference_resolution", "answer": "Slide Risks", "family_id": "dev_family_072", "condition": "revised"}
+{"id": "1ccc8edb2017610377f518ad", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_072", "condition": "revised"}
+{"id": "1d7840c5a76763d5a0529e77", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_038", "condition": "accepted"}
+{"id": "1d7840c5a76763d5a0529e77", "question_type": "reference_resolution", "answer": "Folder East", "family_id": "dev_family_038", "condition": "accepted"}
+{"id": "1d7840c5a76763d5a0529e77", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_038", "condition": "accepted"}
+{"id": "1e866ada200f8f05da42ac43", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_064", "condition": "unresolved"}
+{"id": "1e866ada200f8f05da42ac43", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_064", "condition": "unresolved"}
+{"id": "1e866ada200f8f05da42ac43", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_064", "condition": "unresolved"}
+{"id": "1eb27866216fe98f2fbed171", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_054", "condition": "revised"}
+{"id": "1eb27866216fe98f2fbed171", "question_type": "reference_resolution", "answer": "Branch Indigo", "family_id": "dev_family_054", "condition": "revised"}
+{"id": "1eb27866216fe98f2fbed171", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_054", "condition": "revised"}
+{"id": "2099604fda36ae3de6b92157", "question_type": "factual_recall", "answer": "Workflow Deploy", "family_id": "dev_family_070", "condition": "revised"}
+{"id": "2099604fda36ae3de6b92157", "question_type": "reference_resolution", "answer": "Workflow Verify", "family_id": "dev_family_070", "condition": "revised"}
+{"id": "2099604fda36ae3de6b92157", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_070", "condition": "revised"}
+{"id": "211f2dc1650a68ed3ec8a4cc", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_039", "condition": "rejected"}
+{"id": "211f2dc1650a68ed3ec8a4cc", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_039", "condition": "rejected"}
+{"id": "211f2dc1650a68ed3ec8a4cc", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_039", "condition": "rejected"}
+{"id": "220a68e6168d702cfcca2593", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_023", "condition": "unresolved"}
+{"id": "220a68e6168d702cfcca2593", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_023", "condition": "unresolved"}
+{"id": "220a68e6168d702cfcca2593", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_023", "condition": "unresolved"}
+{"id": "2271cc312484f6fc27eddd83", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_055", "condition": "revised"}
+{"id": "2271cc312484f6fc27eddd83", "question_type": "reference_resolution", "answer": "Prototype Compact", "family_id": "dev_family_055", "condition": "revised"}
+{"id": "2271cc312484f6fc27eddd83", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_055", "condition": "revised"}
+{"id": "22da52cb37ffbce0b1119a0d", "question_type": "factual_recall", "answer": "Slide Methods", "family_id": "dev_family_012", "condition": "accepted"}
+{"id": "22da52cb37ffbce0b1119a0d", "question_type": "reference_resolution", "answer": "Slide Methods", "family_id": "dev_family_012", "condition": "accepted"}
+{"id": "22da52cb37ffbce0b1119a0d", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_012", "condition": "accepted"}
+{"id": "235a261c0bf806ce037ffec8", "question_type": "factual_recall", "answer": "Model Aspen", "family_id": "dev_family_061", "condition": "unresolved"}
+{"id": "235a261c0bf806ce037ffec8", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_061", "condition": "unresolved"}
+{"id": "235a261c0bf806ce037ffec8", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_061", "condition": "unresolved"}
+{"id": "2371aa84a100fac914e5fcf3", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_046", "condition": "rejected"}
+{"id": "2371aa84a100fac914e5fcf3", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_046", "condition": "rejected"}
+{"id": "2371aa84a100fac914e5fcf3", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_046", "condition": "rejected"}
+{"id": "240af368275e17eb28329160", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_007", "condition": "accepted"}
+{"id": "240af368275e17eb28329160", "question_type": "reference_resolution", "answer": "Prototype Wide", "family_id": "dev_family_007", "condition": "accepted"}
+{"id": "240af368275e17eb28329160", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_007", "condition": "accepted"}
+{"id": "24ead9d6b19f73268e50149a", "question_type": "factual_recall", "answer": "Experiment Beta", "family_id": "dev_family_075", "condition": "rejected"}
+{"id": "24ead9d6b19f73268e50149a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_075", "condition": "rejected"}
+{"id": "24ead9d6b19f73268e50149a", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_075", "condition": "rejected"}
+{"id": "250dd5f0270a45b07e56256e", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_009", "condition": "unresolved"}
+{"id": "250dd5f0270a45b07e56256e", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_009", "condition": "unresolved"}
+{"id": "250dd5f0270a45b07e56256e", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_009", "condition": "unresolved"}
+{"id": "26d160fd716bb313319c3ae3", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_027", "condition": "revised"}
+{"id": "26d160fd716bb313319c3ae3", "question_type": "reference_resolution", "answer": "Experiment Gamma", "family_id": "dev_family_027", "condition": "revised"}
+{"id": "26d160fd716bb313319c3ae3", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_027", "condition": "revised"}
+{"id": "278db27b9fa0594dd7b492b6", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_050", "condition": "accepted"}
+{"id": "278db27b9fa0594dd7b492b6", "question_type": "reference_resolution", "answer": "Folder West", "family_id": "dev_family_050", "condition": "accepted"}
+{"id": "278db27b9fa0594dd7b492b6", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_050", "condition": "accepted"}
+{"id": "27efcc93d1bfc2e4c1970873", "question_type": "factual_recall", "answer": "Room Cypress", "family_id": "dev_family_041", "condition": "unresolved"}
+{"id": "27efcc93d1bfc2e4c1970873", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_041", "condition": "unresolved"}
+{"id": "27efcc93d1bfc2e4c1970873", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_041", "condition": "unresolved"}
+{"id": "2b68d3a88499b07a646d366a", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_055", "condition": "unresolved"}
+{"id": "2b68d3a88499b07a646d366a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_055", "condition": "unresolved"}
+{"id": "2b68d3a88499b07a646d366a", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_055", "condition": "unresolved"}
+{"id": "2b93fbadbed8dcf0b14e5250", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_003", "condition": "accepted"}
+{"id": "2b93fbadbed8dcf0b14e5250", "question_type": "reference_resolution", "answer": "Experiment Alpha", "family_id": "dev_family_003", "condition": "accepted"}
+{"id": "2b93fbadbed8dcf0b14e5250", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_003", "condition": "accepted"}
+{"id": "2dbc64450890a33db28348f8", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_074", "condition": "rejected"}
+{"id": "2dbc64450890a33db28348f8", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_074", "condition": "rejected"}
+{"id": "2dbc64450890a33db28348f8", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_074", "condition": "rejected"}
+{"id": "31e98354c1623f96656b4220", "question_type": "factual_recall", "answer": "Experiment Delta", "family_id": "dev_family_051", "condition": "revised"}
+{"id": "31e98354c1623f96656b4220", "question_type": "reference_resolution", "answer": "Experiment Theta", "family_id": "dev_family_051", "condition": "revised"}
+{"id": "31e98354c1623f96656b4220", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_051", "condition": "revised"}
+{"id": "32686f536e3d91a8c4c7d33a", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_042", "condition": "rejected"}
+{"id": "32686f536e3d91a8c4c7d33a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_042", "condition": "rejected"}
+{"id": "32686f536e3d91a8c4c7d33a", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_042", "condition": "rejected"}
+{"id": "32d53c11c1c73ce72c4d2f48", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_060", "condition": "accepted"}
+{"id": "32d53c11c1c73ce72c4d2f48", "question_type": "reference_resolution", "answer": "Slide Results", "family_id": "dev_family_060", "condition": "accepted"}
+{"id": "32d53c11c1c73ce72c4d2f48", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_060", "condition": "accepted"}
+{"id": "33191cc6507e277509188bfb", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_053", "condition": "unresolved"}
+{"id": "33191cc6507e277509188bfb", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_053", "condition": "unresolved"}
+{"id": "33191cc6507e277509188bfb", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_053", "condition": "unresolved"}
+{"id": "336afa2e873347776aa2f216", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_025", "condition": "unresolved"}
+{"id": "336afa2e873347776aa2f216", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_025", "condition": "unresolved"}
+{"id": "336afa2e873347776aa2f216", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_025", "condition": "unresolved"}
+{"id": "33e8cbdd4726d9b87fe6ee71", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_005", "condition": "unresolved"}
+{"id": "33e8cbdd4726d9b87fe6ee71", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_005", "condition": "unresolved"}
+{"id": "33e8cbdd4726d9b87fe6ee71", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_005", "condition": "unresolved"}
+{"id": "3585f9a2b9ef580fb92befb4", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_003", "condition": "unresolved"}
+{"id": "3585f9a2b9ef580fb92befb4", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_003", "condition": "unresolved"}
+{"id": "3585f9a2b9ef580fb92befb4", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_003", "condition": "unresolved"}
+{"id": "36cea0c45e280a4121c81b2d", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_006", "condition": "rejected"}
+{"id": "36cea0c45e280a4121c81b2d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_006", "condition": "rejected"}
+{"id": "36cea0c45e280a4121c81b2d", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_006", "condition": "rejected"}
+{"id": "390708a08295b8434a8e3f88", "question_type": "factual_recall", "answer": "Test Client", "family_id": "dev_family_047", "condition": "revised"}
+{"id": "390708a08295b8434a8e3f88", "question_type": "reference_resolution", "answer": "Test Integration", "family_id": "dev_family_047", "condition": "revised"}
+{"id": "390708a08295b8434a8e3f88", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_047", "condition": "revised"}
+{"id": "397b15b62dc36d3559852a2b", "question_type": "factual_recall", "answer": "Experiment Eta", "family_id": "dev_family_063", "condition": "unresolved"}
+{"id": "397b15b62dc36d3559852a2b", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_063", "condition": "unresolved"}
+{"id": "397b15b62dc36d3559852a2b", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_063", "condition": "unresolved"}
+{"id": "3a0981af2aeb16689efb0871", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_014", "condition": "revised"}
+{"id": "3a0981af2aeb16689efb0871", "question_type": "reference_resolution", "answer": "Folder South", "family_id": "dev_family_014", "condition": "revised"}
+{"id": "3a0981af2aeb16689efb0871", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_014", "condition": "revised"}
+{"id": "3a65da469f5dc16ddf3fb3bc", "question_type": "factual_recall", "answer": "Workflow Deploy", "family_id": "dev_family_070", "condition": "rejected"}
+{"id": "3a65da469f5dc16ddf3fb3bc", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_070", "condition": "rejected"}
+{"id": "3a65da469f5dc16ddf3fb3bc", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_070", "condition": "rejected"}
+{"id": "3d46b13aec4b4c8fa0613625", "question_type": "factual_recall", "answer": "Experiment Delta", "family_id": "dev_family_051", "condition": "rejected"}
+{"id": "3d46b13aec4b4c8fa0613625", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_051", "condition": "rejected"}
+{"id": "3d46b13aec4b4c8fa0613625", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_051", "condition": "rejected"}
+{"id": "3e70cdb1604a4f93c794764b", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_018", "condition": "rejected"}
+{"id": "3e70cdb1604a4f93c794764b", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_018", "condition": "rejected"}
+{"id": "3e70cdb1604a4f93c794764b", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_018", "condition": "rejected"}
+{"id": "3ebef79b1efcc92262364254", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_030", "condition": "revised"}
+{"id": "3ebef79b1efcc92262364254", "question_type": "reference_resolution", "answer": "Branch Silver", "family_id": "dev_family_030", "condition": "revised"}
+{"id": "3ebef79b1efcc92262364254", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_030", "condition": "revised"}
+{"id": "3fc26e903f2bcf0280969e3d", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_077", "condition": "revised"}
+{"id": "3fc26e903f2bcf0280969e3d", "question_type": "reference_resolution", "answer": "Room Laurel", "family_id": "dev_family_077", "condition": "revised"}
+{"id": "3fc26e903f2bcf0280969e3d", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_077", "condition": "revised"}
+{"id": "40872921ca69319229913b3f", "question_type": "factual_recall", "answer": "Dataset Training", "family_id": "dev_family_008", "condition": "rejected"}
+{"id": "40872921ca69319229913b3f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_008", "condition": "rejected"}
+{"id": "40872921ca69319229913b3f", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_008", "condition": "rejected"}
+{"id": "40d416d7acbce3ab44edaec9", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_059", "condition": "revised"}
+{"id": "40d416d7acbce3ab44edaec9", "question_type": "reference_resolution", "answer": "Test Client", "family_id": "dev_family_059", "condition": "revised"}
+{"id": "40d416d7acbce3ab44edaec9", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_059", "condition": "revised"}
+{"id": "4187ee7b0f1244423f1d707c", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_002", "condition": "revised"}
+{"id": "4187ee7b0f1244423f1d707c", "question_type": "reference_resolution", "answer": "Folder Archive", "family_id": "dev_family_002", "condition": "revised"}
+{"id": "4187ee7b0f1244423f1d707c", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_002", "condition": "revised"}
+{"id": "41986b0ebc09358aa59cba50", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_045", "condition": "rejected"}
+{"id": "41986b0ebc09358aa59cba50", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_045", "condition": "rejected"}
+{"id": "41986b0ebc09358aa59cba50", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_045", "condition": "rejected"}
+{"id": "41c87423ed70c78818ba5bf5", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_046", "condition": "revised"}
+{"id": "41c87423ed70c78818ba5bf5", "question_type": "reference_resolution", "answer": "Workflow Archive", "family_id": "dev_family_046", "condition": "revised"}
+{"id": "41c87423ed70c78818ba5bf5", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_046", "condition": "revised"}
+{"id": "42f343cc4c7255ea7f150a9d", "question_type": "factual_recall", "answer": "Dataset Validation", "family_id": "dev_family_044", "condition": "accepted"}
+{"id": "42f343cc4c7255ea7f150a9d", "question_type": "reference_resolution", "answer": "Dataset Validation", "family_id": "dev_family_044", "condition": "accepted"}
+{"id": "42f343cc4c7255ea7f150a9d", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_044", "condition": "accepted"}
+{"id": "4428a489b75a9dfe0cbd3ccf", "question_type": "factual_recall", "answer": "Chart Revenue", "family_id": "dev_family_016", "condition": "accepted"}
+{"id": "4428a489b75a9dfe0cbd3ccf", "question_type": "reference_resolution", "answer": "Chart Revenue", "family_id": "dev_family_016", "condition": "accepted"}
+{"id": "4428a489b75a9dfe0cbd3ccf", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_016", "condition": "accepted"}
+{"id": "44c1e8a5619a55a71fbef698", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_062", "condition": "unresolved"}
+{"id": "44c1e8a5619a55a71fbef698", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_062", "condition": "unresolved"}
+{"id": "44c1e8a5619a55a71fbef698", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_062", "condition": "unresolved"}
+{"id": "45af3523a6af2e20c65144e6", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_049", "condition": "unresolved"}
+{"id": "45af3523a6af2e20c65144e6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_049", "condition": "unresolved"}
+{"id": "45af3523a6af2e20c65144e6", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_049", "condition": "unresolved"}
+{"id": "4624e71f6e7f5e59ca1be928", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_071", "condition": "rejected"}
+{"id": "4624e71f6e7f5e59ca1be928", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_071", "condition": "rejected"}
+{"id": "4624e71f6e7f5e59ca1be928", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_071", "condition": "rejected"}
+{"id": "46f17de7c346d5a1f5cf7d80", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_018", "condition": "unresolved"}
+{"id": "46f17de7c346d5a1f5cf7d80", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_018", "condition": "unresolved"}
+{"id": "46f17de7c346d5a1f5cf7d80", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_018", "condition": "unresolved"}
+{"id": "4823e125bc640bea3fdaa39c", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_017", "condition": "revised"}
+{"id": "4823e125bc640bea3fdaa39c", "question_type": "reference_resolution", "answer": "Room Laurel", "family_id": "dev_family_017", "condition": "revised"}
+{"id": "4823e125bc640bea3fdaa39c", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_017", "condition": "revised"}
+{"id": "48401cf7e9235a60ca1a48a9", "question_type": "factual_recall", "answer": "Prototype Large", "family_id": "dev_family_079", "condition": "revised"}
+{"id": "48401cf7e9235a60ca1a48a9", "question_type": "reference_resolution", "answer": "Prototype Small", "family_id": "dev_family_079", "condition": "revised"}
+{"id": "48401cf7e9235a60ca1a48a9", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_079", "condition": "revised"}
+{"id": "497679548556575f98c0a96f", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_017", "condition": "unresolved"}
+{"id": "497679548556575f98c0a96f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_017", "condition": "unresolved"}
+{"id": "497679548556575f98c0a96f", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_017", "condition": "unresolved"}
+{"id": "4a600cb65e60f6f0b321d0ab", "question_type": "factual_recall", "answer": "Dataset Pilot", "family_id": "dev_family_080", "condition": "revised"}
+{"id": "4a600cb65e60f6f0b321d0ab", "question_type": "reference_resolution", "answer": "Dataset Holdout", "family_id": "dev_family_080", "condition": "revised"}
+{"id": "4a600cb65e60f6f0b321d0ab", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_080", "condition": "revised"}
+{"id": "4a9edb648f1aa0be10650a49", "question_type": "factual_recall", "answer": "Slide Intro", "family_id": "dev_family_036", "condition": "revised"}
+{"id": "4a9edb648f1aa0be10650a49", "question_type": "reference_resolution", "answer": "Slide Results", "family_id": "dev_family_036", "condition": "revised"}
+{"id": "4a9edb648f1aa0be10650a49", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_036", "condition": "revised"}
+{"id": "4aa43b30f38ab2d9d83b31ce", "question_type": "factual_recall", "answer": "Document Methods", "family_id": "dev_family_033", "condition": "accepted"}
+{"id": "4aa43b30f38ab2d9d83b31ce", "question_type": "reference_resolution", "answer": "Document Methods", "family_id": "dev_family_033", "condition": "accepted"}
+{"id": "4aa43b30f38ab2d9d83b31ce", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_033", "condition": "accepted"}
+{"id": "4c02be8f5455f41fa9ff0661", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_046", "condition": "unresolved"}
+{"id": "4c02be8f5455f41fa9ff0661", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_046", "condition": "unresolved"}
+{"id": "4c02be8f5455f41fa9ff0661", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_046", "condition": "unresolved"}
+{"id": "4cc1c177586bca9f7bfbd814", "question_type": "factual_recall", "answer": "Document Review", "family_id": "dev_family_021", "condition": "rejected"}
+{"id": "4cc1c177586bca9f7bfbd814", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_021", "condition": "rejected"}
+{"id": "4cc1c177586bca9f7bfbd814", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_021", "condition": "rejected"}
+{"id": "4d2a6227f3e01ae72268e170", "question_type": "factual_recall", "answer": "Chart Errors", "family_id": "dev_family_040", "condition": "accepted"}
+{"id": "4d2a6227f3e01ae72268e170", "question_type": "reference_resolution", "answer": "Chart Errors", "family_id": "dev_family_040", "condition": "accepted"}
+{"id": "4d2a6227f3e01ae72268e170", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_040", "condition": "accepted"}
+{"id": "4dc530fca0dd8d917479263a", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_028", "condition": "revised"}
+{"id": "4dc530fca0dd8d917479263a", "question_type": "reference_resolution", "answer": "Chart Errors", "family_id": "dev_family_028", "condition": "revised"}
+{"id": "4dc530fca0dd8d917479263a", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_028", "condition": "revised"}
+{"id": "4e5267c29caa258a2960099c", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_050", "condition": "revised"}
+{"id": "4e5267c29caa258a2960099c", "question_type": "reference_resolution", "answer": "Folder Draft", "family_id": "dev_family_050", "condition": "revised"}
+{"id": "4e5267c29caa258a2960099c", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_050", "condition": "revised"}
+{"id": "50cbb4cc5dbd62be4f7443f9", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_054", "condition": "accepted"}
+{"id": "50cbb4cc5dbd62be4f7443f9", "question_type": "reference_resolution", "answer": "Branch Copper", "family_id": "dev_family_054", "condition": "accepted"}
+{"id": "50cbb4cc5dbd62be4f7443f9", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_054", "condition": "accepted"}
+{"id": "51525bc0b0eab79e4cbd2e4f", "question_type": "factual_recall", "answer": "Test Client", "family_id": "dev_family_047", "condition": "rejected"}
+{"id": "51525bc0b0eab79e4cbd2e4f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_047", "condition": "rejected"}
+{"id": "51525bc0b0eab79e4cbd2e4f", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_047", "condition": "rejected"}
+{"id": "51a49d93062fc650e8110e63", "question_type": "factual_recall", "answer": "Experiment Eta", "family_id": "dev_family_063", "condition": "revised"}
+{"id": "51a49d93062fc650e8110e63", "question_type": "reference_resolution", "answer": "Experiment Alpha", "family_id": "dev_family_063", "condition": "revised"}
+{"id": "51a49d93062fc650e8110e63", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_063", "condition": "revised"}
+{"id": "52cd1b04ac1226ab7cbfab51", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_078", "condition": "revised"}
+{"id": "52cd1b04ac1226ab7cbfab51", "question_type": "reference_resolution", "answer": "Branch Amber", "family_id": "dev_family_078", "condition": "revised"}
+{"id": "52cd1b04ac1226ab7cbfab51", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_078", "condition": "revised"}
+{"id": "535c212abebd998b2973f8a5", "question_type": "factual_recall", "answer": "Test Client", "family_id": "dev_family_047", "condition": "unresolved"}
+{"id": "535c212abebd998b2973f8a5", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_047", "condition": "unresolved"}
+{"id": "535c212abebd998b2973f8a5", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_047", "condition": "unresolved"}
+{"id": "53a372a436209e2743626aae", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_077", "condition": "unresolved"}
+{"id": "53a372a436209e2743626aae", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_077", "condition": "unresolved"}
+{"id": "53a372a436209e2743626aae", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_077", "condition": "unresolved"}
+{"id": "54744d4d77eaf1e33ce4fdd2", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_034", "condition": "accepted"}
+{"id": "54744d4d77eaf1e33ce4fdd2", "question_type": "reference_resolution", "answer": "Workflow Route", "family_id": "dev_family_034", "condition": "accepted"}
+{"id": "54744d4d77eaf1e33ce4fdd2", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_034", "condition": "accepted"}
+{"id": "55daafd23fa933f9949a8f0a", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_064", "condition": "accepted"}
+{"id": "55daafd23fa933f9949a8f0a", "question_type": "reference_resolution", "answer": "Chart Latency", "family_id": "dev_family_064", "condition": "accepted"}
+{"id": "55daafd23fa933f9949a8f0a", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_064", "condition": "accepted"}
+{"id": "55f4c8d41300116bcbe2421f", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_007", "condition": "rejected"}
+{"id": "55f4c8d41300116bcbe2421f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_007", "condition": "rejected"}
+{"id": "55f4c8d41300116bcbe2421f", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_007", "condition": "rejected"}
+{"id": "562b8a82ae583da312bf7bca", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_005", "condition": "rejected"}
+{"id": "562b8a82ae583da312bf7bca", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_005", "condition": "rejected"}
+{"id": "562b8a82ae583da312bf7bca", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_005", "condition": "rejected"}
+{"id": "5631c586deaa8d33c7d7a60e", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_072", "condition": "accepted"}
+{"id": "5631c586deaa8d33c7d7a60e", "question_type": "reference_resolution", "answer": "Slide Results", "family_id": "dev_family_072", "condition": "accepted"}
+{"id": "5631c586deaa8d33c7d7a60e", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_072", "condition": "accepted"}
+{"id": "568d22181808b40973f3ded4", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_004", "condition": "rejected"}
+{"id": "568d22181808b40973f3ded4", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_004", "condition": "rejected"}
+{"id": "568d22181808b40973f3ded4", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_004", "condition": "rejected"}
+{"id": "56d1c946d1d43fdaa209c3cc", "question_type": "factual_recall", "answer": "Prototype Small", "family_id": "dev_family_067", "condition": "unresolved"}
+{"id": "56d1c946d1d43fdaa209c3cc", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_067", "condition": "unresolved"}
+{"id": "56d1c946d1d43fdaa209c3cc", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_067", "condition": "unresolved"}
+{"id": "5729967981f3ab26e70b5c22", "question_type": "factual_recall", "answer": "Room Cypress", "family_id": "dev_family_041", "condition": "rejected"}
+{"id": "5729967981f3ab26e70b5c22", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_041", "condition": "rejected"}
+{"id": "5729967981f3ab26e70b5c22", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_041", "condition": "rejected"}
+{"id": "58631b83a72c96b4a2b7c01c", "question_type": "factual_recall", "answer": "Workflow Approve", "family_id": "dev_family_022", "condition": "accepted"}
+{"id": "58631b83a72c96b4a2b7c01c", "question_type": "reference_resolution", "answer": "Workflow Approve", "family_id": "dev_family_022", "condition": "accepted"}
+{"id": "58631b83a72c96b4a2b7c01c", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_022", "condition": "accepted"}
+{"id": "5891af20addd9628d48d92ee", "question_type": "factual_recall", "answer": "Dataset Review", "family_id": "dev_family_020", "condition": "rejected"}
+{"id": "5891af20addd9628d48d92ee", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_020", "condition": "rejected"}
+{"id": "5891af20addd9628d48d92ee", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_020", "condition": "rejected"}
+{"id": "58ef98e58150325e381ffe1c", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_025", "condition": "revised"}
+{"id": "58ef98e58150325e381ffe1c", "question_type": "reference_resolution", "answer": "Model Elm", "family_id": "dev_family_025", "condition": "revised"}
+{"id": "58ef98e58150325e381ffe1c", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_025", "condition": "revised"}
+{"id": "59100def9bb4b1eaa6806b23", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_060", "condition": "revised"}
+{"id": "59100def9bb4b1eaa6806b23", "question_type": "reference_resolution", "answer": "Slide Questions", "family_id": "dev_family_060", "condition": "revised"}
+{"id": "59100def9bb4b1eaa6806b23", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_060", "condition": "revised"}
+{"id": "59eb22a1e3ef5921392d8bda", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_001", "condition": "rejected"}
+{"id": "59eb22a1e3ef5921392d8bda", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_001", "condition": "rejected"}
+{"id": "59eb22a1e3ef5921392d8bda", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_001", "condition": "rejected"}
+{"id": "5ba2d79d1abc4f5a5c0e8e1a", "question_type": "factual_recall", "answer": "Dataset Holdout", "family_id": "dev_family_056", "condition": "rejected"}
+{"id": "5ba2d79d1abc4f5a5c0e8e1a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_056", "condition": "rejected"}
+{"id": "5ba2d79d1abc4f5a5c0e8e1a", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_056", "condition": "rejected"}
+{"id": "5bb544d21bf4433bb2483adb", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_073", "condition": "revised"}
+{"id": "5bb544d21bf4433bb2483adb", "question_type": "reference_resolution", "answer": "Model Aspen", "family_id": "dev_family_073", "condition": "revised"}
+{"id": "5bb544d21bf4433bb2483adb", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_073", "condition": "revised"}
+{"id": "5be03a89dbff55226568d3b9", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_023", "condition": "rejected"}
+{"id": "5be03a89dbff55226568d3b9", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_023", "condition": "rejected"}
+{"id": "5be03a89dbff55226568d3b9", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_023", "condition": "rejected"}
+{"id": "5c312a82be1ecad70ef5a42d", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_018", "condition": "revised"}
+{"id": "5c312a82be1ecad70ef5a42d", "question_type": "reference_resolution", "answer": "Branch Amber", "family_id": "dev_family_018", "condition": "revised"}
+{"id": "5c312a82be1ecad70ef5a42d", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_018", "condition": "revised"}
+{"id": "5cacac19053d87b633306b25", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_074", "condition": "revised"}
+{"id": "5cacac19053d87b633306b25", "question_type": "reference_resolution", "answer": "Folder South", "family_id": "dev_family_074", "condition": "revised"}
+{"id": "5cacac19053d87b633306b25", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_074", "condition": "revised"}
+{"id": "5dc7a9f733750fd0563f96d6", "question_type": "factual_recall", "answer": "Model Aspen", "family_id": "dev_family_061", "condition": "revised"}
+{"id": "5dc7a9f733750fd0563f96d6", "question_type": "reference_resolution", "answer": "Model Birch", "family_id": "dev_family_061", "condition": "revised"}
+{"id": "5dc7a9f733750fd0563f96d6", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_061", "condition": "revised"}
+{"id": "5ff42fc6f181e597b637a748", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_034", "condition": "unresolved"}
+{"id": "5ff42fc6f181e597b637a748", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_034", "condition": "unresolved"}
+{"id": "5ff42fc6f181e597b637a748", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_034", "condition": "unresolved"}
+{"id": "6026f729cf04e09a4b218219", "question_type": "factual_recall", "answer": "Chart Revenue", "family_id": "dev_family_016", "condition": "rejected"}
+{"id": "6026f729cf04e09a4b218219", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_016", "condition": "rejected"}
+{"id": "6026f729cf04e09a4b218219", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_016", "condition": "rejected"}
+{"id": "605050c108e83956cbe2c363", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_015", "condition": "revised"}
+{"id": "605050c108e83956cbe2c363", "question_type": "reference_resolution", "answer": "Experiment Eta", "family_id": "dev_family_015", "condition": "revised"}
+{"id": "605050c108e83956cbe2c363", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_015", "condition": "revised"}
+{"id": "605e6484b992684cc0ecea31", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_046", "condition": "accepted"}
+{"id": "605e6484b992684cc0ecea31", "question_type": "reference_resolution", "answer": "Workflow Route", "family_id": "dev_family_046", "condition": "accepted"}
+{"id": "605e6484b992684cc0ecea31", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_046", "condition": "accepted"}
+{"id": "60c69847dc110efc11dc3b32", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_009", "condition": "rejected"}
+{"id": "60c69847dc110efc11dc3b32", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_009", "condition": "rejected"}
+{"id": "60c69847dc110efc11dc3b32", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_009", "condition": "rejected"}
+{"id": "614b965c88cbdd77a4ed74f3", "question_type": "factual_recall", "answer": "Dataset Holdout", "family_id": "dev_family_056", "condition": "unresolved"}
+{"id": "614b965c88cbdd77a4ed74f3", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_056", "condition": "unresolved"}
+{"id": "614b965c88cbdd77a4ed74f3", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_056", "condition": "unresolved"}
+{"id": "623932aa6722455db36be9c6", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_058", "condition": "accepted"}
+{"id": "623932aa6722455db36be9c6", "question_type": "reference_resolution", "answer": "Workflow Route", "family_id": "dev_family_058", "condition": "accepted"}
+{"id": "623932aa6722455db36be9c6", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_058", "condition": "accepted"}
+{"id": "63c9a168955d6dc699730cb1", "question_type": "factual_recall", "answer": "Document Appendix", "family_id": "dev_family_069", "condition": "rejected"}
+{"id": "63c9a168955d6dc699730cb1", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_069", "condition": "rejected"}
+{"id": "63c9a168955d6dc699730cb1", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_069", "condition": "rejected"}
+{"id": "643ff3d74b4c25dd03010ade", "question_type": "factual_recall", "answer": "Branch Violet", "family_id": "dev_family_066", "condition": "accepted"}
+{"id": "643ff3d74b4c25dd03010ade", "question_type": "reference_resolution", "answer": "Branch Violet", "family_id": "dev_family_066", "condition": "accepted"}
+{"id": "643ff3d74b4c25dd03010ade", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_066", "condition": "accepted"}
+{"id": "6995d6010ae70bfda04ca818", "question_type": "factual_recall", "answer": "Chart Volume", "family_id": "dev_family_052", "condition": "rejected"}
+{"id": "6995d6010ae70bfda04ca818", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_052", "condition": "rejected"}
+{"id": "6995d6010ae70bfda04ca818", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_052", "condition": "rejected"}
+{"id": "6c058383887ff4ff82207bf1", "question_type": "factual_recall", "answer": "Slide Methods", "family_id": "dev_family_012", "condition": "revised"}
+{"id": "6c058383887ff4ff82207bf1", "question_type": "reference_resolution", "answer": "Slide Intro", "family_id": "dev_family_012", "condition": "revised"}
+{"id": "6c058383887ff4ff82207bf1", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_012", "condition": "revised"}
+{"id": "6ccd3140c4d68834a9959e55", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_057", "condition": "unresolved"}
+{"id": "6ccd3140c4d68834a9959e55", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_057", "condition": "unresolved"}
+{"id": "6ccd3140c4d68834a9959e55", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_057", "condition": "unresolved"}
+{"id": "6d1cd8a9b419275bccedd576", "question_type": "factual_recall", "answer": "Room Laurel", "family_id": "dev_family_065", "condition": "revised"}
+{"id": "6d1cd8a9b419275bccedd576", "question_type": "reference_resolution", "answer": "Room Juniper", "family_id": "dev_family_065", "condition": "revised"}
+{"id": "6d1cd8a9b419275bccedd576", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_065", "condition": "revised"}
+{"id": "6ea786788075fed556b57a4a", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_029", "condition": "revised"}
+{"id": "6ea786788075fed556b57a4a", "question_type": "reference_resolution", "answer": "Room Magnolia", "family_id": "dev_family_029", "condition": "revised"}
+{"id": "6ea786788075fed556b57a4a", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_029", "condition": "revised"}
+{"id": "6edc63229da4f382a44d11b0", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_039", "condition": "unresolved"}
+{"id": "6edc63229da4f382a44d11b0", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_039", "condition": "unresolved"}
+{"id": "6edc63229da4f382a44d11b0", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_039", "condition": "unresolved"}
+{"id": "70af3b2775f7ae940c09830b", "question_type": "factual_recall", "answer": "Dataset Pilot", "family_id": "dev_family_080", "condition": "unresolved"}
+{"id": "70af3b2775f7ae940c09830b", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_080", "condition": "unresolved"}
+{"id": "70af3b2775f7ae940c09830b", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_080", "condition": "unresolved"}
+{"id": "7215b766e2d621199db47a78", "question_type": "factual_recall", "answer": "Chart Volume", "family_id": "dev_family_052", "condition": "accepted"}
+{"id": "7215b766e2d621199db47a78", "question_type": "reference_resolution", "answer": "Chart Volume", "family_id": "dev_family_052", "condition": "accepted"}
+{"id": "7215b766e2d621199db47a78", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_052", "condition": "accepted"}
+{"id": "7335f8eaad34be54010339ba", "question_type": "factual_recall", "answer": "Dataset Holdout", "family_id": "dev_family_056", "condition": "accepted"}
+{"id": "7335f8eaad34be54010339ba", "question_type": "reference_resolution", "answer": "Dataset Holdout", "family_id": "dev_family_056", "condition": "accepted"}
+{"id": "7335f8eaad34be54010339ba", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_056", "condition": "accepted"}
+{"id": "73b592c0f8e22f405cd2601f", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_055", "condition": "rejected"}
+{"id": "73b592c0f8e22f405cd2601f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_055", "condition": "rejected"}
+{"id": "73b592c0f8e22f405cd2601f", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_055", "condition": "rejected"}
+{"id": "740e3192fec060ae1d743832", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_050", "condition": "unresolved"}
+{"id": "740e3192fec060ae1d743832", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_050", "condition": "unresolved"}
+{"id": "740e3192fec060ae1d743832", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_050", "condition": "unresolved"}
+{"id": "74ac4aec8455b051770575a0", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_077", "condition": "accepted"}
+{"id": "74ac4aec8455b051770575a0", "question_type": "reference_resolution", "answer": "Room Oak", "family_id": "dev_family_077", "condition": "accepted"}
+{"id": "74ac4aec8455b051770575a0", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_077", "condition": "accepted"}
+{"id": "74eab566808d286b3be5c890", "question_type": "factual_recall", "answer": "Document Appendix", "family_id": "dev_family_069", "condition": "accepted"}
+{"id": "74eab566808d286b3be5c890", "question_type": "reference_resolution", "answer": "Document Appendix", "family_id": "dev_family_069", "condition": "accepted"}
+{"id": "74eab566808d286b3be5c890", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_069", "condition": "accepted"}
+{"id": "7552c0b56169021ab4af41a0", "question_type": "factual_recall", "answer": "Test Client", "family_id": "dev_family_047", "condition": "accepted"}
+{"id": "7552c0b56169021ab4af41a0", "question_type": "reference_resolution", "answer": "Test Client", "family_id": "dev_family_047", "condition": "accepted"}
+{"id": "7552c0b56169021ab4af41a0", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_047", "condition": "accepted"}
+{"id": "75e9ba2dec78cf457accca17", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_057", "condition": "revised"}
+{"id": "75e9ba2dec78cf457accca17", "question_type": "reference_resolution", "answer": "Document Draft", "family_id": "dev_family_057", "condition": "revised"}
+{"id": "75e9ba2dec78cf457accca17", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_057", "condition": "revised"}
+{"id": "7671637af0949e643ee61867", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_076", "condition": "revised"}
+{"id": "7671637af0949e643ee61867", "question_type": "reference_resolution", "answer": "Chart Retention", "family_id": "dev_family_076", "condition": "revised"}
+{"id": "7671637af0949e643ee61867", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_076", "condition": "revised"}
+{"id": "77233a7b7cf39384716beda2", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_001", "condition": "accepted"}
+{"id": "77233a7b7cf39384716beda2", "question_type": "reference_resolution", "answer": "Model Spruce", "family_id": "dev_family_001", "condition": "accepted"}
+{"id": "77233a7b7cf39384716beda2", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_001", "condition": "accepted"}
+{"id": "786dc937bf965d172c9812f8", "question_type": "factual_recall", "answer": "Dataset Review", "family_id": "dev_family_020", "condition": "accepted"}
+{"id": "786dc937bf965d172c9812f8", "question_type": "reference_resolution", "answer": "Dataset Review", "family_id": "dev_family_020", "condition": "accepted"}
+{"id": "786dc937bf965d172c9812f8", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_020", "condition": "accepted"}
+{"id": "78884989de392e3b518dc6f5", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_062", "condition": "revised"}
+{"id": "78884989de392e3b518dc6f5", "question_type": "reference_resolution", "answer": "Folder Current", "family_id": "dev_family_062", "condition": "revised"}
+{"id": "78884989de392e3b518dc6f5", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_062", "condition": "revised"}
+{"id": "79a3940db8179e9d7e2e1013", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_031", "condition": "unresolved"}
+{"id": "79a3940db8179e9d7e2e1013", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_031", "condition": "unresolved"}
+{"id": "79a3940db8179e9d7e2e1013", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_031", "condition": "unresolved"}
+{"id": "79fb722c7852cd28c80cc608", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_064", "condition": "revised"}
+{"id": "79fb722c7852cd28c80cc608", "question_type": "reference_resolution", "answer": "Chart Coverage", "family_id": "dev_family_064", "condition": "revised"}
+{"id": "79fb722c7852cd28c80cc608", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_064", "condition": "revised"}
+{"id": "7c11af0dfe94c1a8c8055f77", "question_type": "factual_recall", "answer": "Slide Timeline", "family_id": "dev_family_024", "condition": "accepted"}
+{"id": "7c11af0dfe94c1a8c8055f77", "question_type": "reference_resolution", "answer": "Slide Timeline", "family_id": "dev_family_024", "condition": "accepted"}
+{"id": "7c11af0dfe94c1a8c8055f77", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_024", "condition": "accepted"}
+{"id": "7c4330fccb7f971d7a54914d", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_002", "condition": "rejected"}
+{"id": "7c4330fccb7f971d7a54914d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_002", "condition": "rejected"}
+{"id": "7c4330fccb7f971d7a54914d", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_002", "condition": "rejected"}
+{"id": "7c727c2b61e18e88c1e57050", "question_type": "factual_recall", "answer": "Test Smoke", "family_id": "dev_family_011", "condition": "unresolved"}
+{"id": "7c727c2b61e18e88c1e57050", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_011", "condition": "unresolved"}
+{"id": "7c727c2b61e18e88c1e57050", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_011", "condition": "unresolved"}
+{"id": "7c81b1aee611cb7c80c57f5d", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_029", "condition": "rejected"}
+{"id": "7c81b1aee611cb7c80c57f5d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_029", "condition": "rejected"}
+{"id": "7c81b1aee611cb7c80c57f5d", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_029", "condition": "rejected"}
+{"id": "7d32f1f3e5d663c82511b1a4", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_053", "condition": "rejected"}
+{"id": "7d32f1f3e5d663c82511b1a4", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_053", "condition": "rejected"}
+{"id": "7d32f1f3e5d663c82511b1a4", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_053", "condition": "rejected"}
+{"id": "7f73ae62f59f0b9ce3e0b04f", "question_type": "factual_recall", "answer": "Workflow Review", "family_id": "dev_family_010", "condition": "rejected"}
+{"id": "7f73ae62f59f0b9ce3e0b04f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_010", "condition": "rejected"}
+{"id": "7f73ae62f59f0b9ce3e0b04f", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_010", "condition": "rejected"}
+{"id": "8044836000f560821ad89bc4", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_037", "condition": "accepted"}
+{"id": "8044836000f560821ad89bc4", "question_type": "reference_resolution", "answer": "Model Birch", "family_id": "dev_family_037", "condition": "accepted"}
+{"id": "8044836000f560821ad89bc4", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_037", "condition": "accepted"}
+{"id": "80c4bfee94354fa401f67179", "question_type": "factual_recall", "answer": "Dataset Audit", "family_id": "dev_family_068", "condition": "accepted"}
+{"id": "80c4bfee94354fa401f67179", "question_type": "reference_resolution", "answer": "Dataset Audit", "family_id": "dev_family_068", "condition": "accepted"}
+{"id": "80c4bfee94354fa401f67179", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_068", "condition": "accepted"}
+{"id": "80eac4c8cd6b11ad5356e3b5", "question_type": "factual_recall", "answer": "Room Laurel", "family_id": "dev_family_065", "condition": "rejected"}
+{"id": "80eac4c8cd6b11ad5356e3b5", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_065", "condition": "rejected"}
+{"id": "80eac4c8cd6b11ad5356e3b5", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_065", "condition": "rejected"}
+{"id": "8132e68ed9b13eaddbb0d761", "question_type": "factual_recall", "answer": "Dataset Validation", "family_id": "dev_family_044", "condition": "unresolved"}
+{"id": "8132e68ed9b13eaddbb0d761", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_044", "condition": "unresolved"}
+{"id": "8132e68ed9b13eaddbb0d761", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_044", "condition": "unresolved"}
+{"id": "81513d14a20365c0ba7dfa87", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_059", "condition": "rejected"}
+{"id": "81513d14a20365c0ba7dfa87", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_059", "condition": "rejected"}
+{"id": "81513d14a20365c0ba7dfa87", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_059", "condition": "rejected"}
+{"id": "8154e782611e588cd6abddd7", "question_type": "factual_recall", "answer": "Prototype Dense", "family_id": "dev_family_019", "condition": "revised"}
+{"id": "8154e782611e588cd6abddd7", "question_type": "reference_resolution", "answer": "Prototype Tall", "family_id": "dev_family_019", "condition": "revised"}
+{"id": "8154e782611e588cd6abddd7", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_019", "condition": "revised"}
+{"id": "821980d4f6dbfbc7f5809ee6", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_076", "condition": "rejected"}
+{"id": "821980d4f6dbfbc7f5809ee6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_076", "condition": "rejected"}
+{"id": "821980d4f6dbfbc7f5809ee6", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_076", "condition": "rejected"}
+{"id": "82255b96796037bebcee933a", "question_type": "factual_recall", "answer": "Chart Errors", "family_id": "dev_family_040", "condition": "rejected"}
+{"id": "82255b96796037bebcee933a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_040", "condition": "rejected"}
+{"id": "82255b96796037bebcee933a", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_040", "condition": "rejected"}
+{"id": "8240600cc930de84df1a4362", "question_type": "factual_recall", "answer": "Workflow Review", "family_id": "dev_family_010", "condition": "revised"}
+{"id": "8240600cc930de84df1a4362", "question_type": "reference_resolution", "answer": "Workflow Archive", "family_id": "dev_family_010", "condition": "revised"}
+{"id": "8240600cc930de84df1a4362", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_010", "condition": "revised"}
+{"id": "826f2268b3fbca79f3d0e91a", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_077", "condition": "rejected"}
+{"id": "826f2268b3fbca79f3d0e91a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_077", "condition": "rejected"}
+{"id": "826f2268b3fbca79f3d0e91a", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_077", "condition": "rejected"}
+{"id": "82966faf1a4d6d3c15104591", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_031", "condition": "rejected"}
+{"id": "82966faf1a4d6d3c15104591", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_031", "condition": "rejected"}
+{"id": "82966faf1a4d6d3c15104591", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_031", "condition": "rejected"}
+{"id": "83d011818131b1fe9efb0530", "question_type": "factual_recall", "answer": "Prototype Large", "family_id": "dev_family_079", "condition": "accepted"}
+{"id": "83d011818131b1fe9efb0530", "question_type": "reference_resolution", "answer": "Prototype Large", "family_id": "dev_family_079", "condition": "accepted"}
+{"id": "83d011818131b1fe9efb0530", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_079", "condition": "accepted"}
+{"id": "842886236e8b07de4ba87372", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_053", "condition": "accepted"}
+{"id": "842886236e8b07de4ba87372", "question_type": "reference_resolution", "answer": "Room Oak", "family_id": "dev_family_053", "condition": "accepted"}
+{"id": "842886236e8b07de4ba87372", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_053", "condition": "accepted"}
+{"id": "8488ba10b06965ba5d7324b0", "question_type": "factual_recall", "answer": "Chart Volume", "family_id": "dev_family_052", "condition": "revised"}
+{"id": "8488ba10b06965ba5d7324b0", "question_type": "reference_resolution", "answer": "Chart Revenue", "family_id": "dev_family_052", "condition": "revised"}
+{"id": "8488ba10b06965ba5d7324b0", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_052", "condition": "revised"}
+{"id": "8557572e100b7b3c4a1485ac", "question_type": "factual_recall", "answer": "Dataset Validation", "family_id": "dev_family_044", "condition": "revised"}
+{"id": "8557572e100b7b3c4a1485ac", "question_type": "reference_resolution", "answer": "Dataset Backup", "family_id": "dev_family_044", "condition": "revised"}
+{"id": "8557572e100b7b3c4a1485ac", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_044", "condition": "revised"}
+{"id": "856de944a284f30e3b081175", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_003", "condition": "revised"}
+{"id": "856de944a284f30e3b081175", "question_type": "reference_resolution", "answer": "Experiment Eta", "family_id": "dev_family_003", "condition": "revised"}
+{"id": "856de944a284f30e3b081175", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_003", "condition": "revised"}
+{"id": "860e7ac243129ac316e9ac4f", "question_type": "factual_recall", "answer": "Dataset Review", "family_id": "dev_family_020", "condition": "unresolved"}
+{"id": "860e7ac243129ac316e9ac4f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_020", "condition": "unresolved"}
+{"id": "860e7ac243129ac316e9ac4f", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_020", "condition": "unresolved"}
+{"id": "8856bca411a1ee6581a66dd1", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_003", "condition": "rejected"}
+{"id": "8856bca411a1ee6581a66dd1", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_003", "condition": "rejected"}
+{"id": "8856bca411a1ee6581a66dd1", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_003", "condition": "rejected"}
+{"id": "88d1206e6bbc1eb6b2f0bbe2", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_072", "condition": "rejected"}
+{"id": "88d1206e6bbc1eb6b2f0bbe2", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_072", "condition": "rejected"}
+{"id": "88d1206e6bbc1eb6b2f0bbe2", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_072", "condition": "rejected"}
+{"id": "894d523da8394de52502b2a2", "question_type": "factual_recall", "answer": "Dataset Audit", "family_id": "dev_family_068", "condition": "revised"}
+{"id": "894d523da8394de52502b2a2", "question_type": "reference_resolution", "answer": "Dataset Backup", "family_id": "dev_family_068", "condition": "revised"}
+{"id": "894d523da8394de52502b2a2", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_068", "condition": "revised"}
+{"id": "8962180edb82ad7075fd4c45", "question_type": "factual_recall", "answer": "Workflow Deploy", "family_id": "dev_family_070", "condition": "unresolved"}
+{"id": "8962180edb82ad7075fd4c45", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_070", "condition": "unresolved"}
+{"id": "8962180edb82ad7075fd4c45", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_070", "condition": "unresolved"}
+{"id": "897eba01b61cce9862a36c62", "question_type": "factual_recall", "answer": "Chart Volume", "family_id": "dev_family_052", "condition": "unresolved"}
+{"id": "897eba01b61cce9862a36c62", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_052", "condition": "unresolved"}
+{"id": "897eba01b61cce9862a36c62", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_052", "condition": "unresolved"}
+{"id": "89be8ae1e40d8aac0c845b26", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_007", "condition": "revised"}
+{"id": "89be8ae1e40d8aac0c845b26", "question_type": "reference_resolution", "answer": "Prototype Medium", "family_id": "dev_family_007", "condition": "revised"}
+{"id": "89be8ae1e40d8aac0c845b26", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_007", "condition": "revised"}
+{"id": "8a1289e875bc6483629cbec7", "question_type": "factual_recall", "answer": "Prototype Small", "family_id": "dev_family_067", "condition": "revised"}
+{"id": "8a1289e875bc6483629cbec7", "question_type": "reference_resolution", "answer": "Prototype Compact", "family_id": "dev_family_067", "condition": "revised"}
+{"id": "8a1289e875bc6483629cbec7", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_067", "condition": "revised"}
+{"id": "8a57ea722493a6b3d331ea6d", "question_type": "factual_recall", "answer": "Prototype Small", "family_id": "dev_family_067", "condition": "rejected"}
+{"id": "8a57ea722493a6b3d331ea6d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_067", "condition": "rejected"}
+{"id": "8a57ea722493a6b3d331ea6d", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_067", "condition": "rejected"}
+{"id": "8b0cb0dab993918b3848e438", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_073", "condition": "rejected"}
+{"id": "8b0cb0dab993918b3848e438", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_073", "condition": "rejected"}
+{"id": "8b0cb0dab993918b3848e438", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_073", "condition": "rejected"}
+{"id": "8b6ede24d9174ebe204c05ab", "question_type": "factual_recall", "answer": "Workflow Review", "family_id": "dev_family_010", "condition": "accepted"}
+{"id": "8b6ede24d9174ebe204c05ab", "question_type": "reference_resolution", "answer": "Workflow Review", "family_id": "dev_family_010", "condition": "accepted"}
+{"id": "8b6ede24d9174ebe204c05ab", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_010", "condition": "accepted"}
+{"id": "8bc6bdbff15e9fc8118d3890", "question_type": "factual_recall", "answer": "Dataset Holdout", "family_id": "dev_family_056", "condition": "revised"}
+{"id": "8bc6bdbff15e9fc8118d3890", "question_type": "reference_resolution", "answer": "Dataset Pilot", "family_id": "dev_family_056", "condition": "revised"}
+{"id": "8bc6bdbff15e9fc8118d3890", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_056", "condition": "revised"}
+{"id": "8dd3fb02058046003298847d", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_028", "condition": "unresolved"}
+{"id": "8dd3fb02058046003298847d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_028", "condition": "unresolved"}
+{"id": "8dd3fb02058046003298847d", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_028", "condition": "unresolved"}
+{"id": "8e4c2ad01a64fceab704b86c", "question_type": "factual_recall", "answer": "Dataset Training", "family_id": "dev_family_008", "condition": "unresolved"}
+{"id": "8e4c2ad01a64fceab704b86c", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_008", "condition": "unresolved"}
+{"id": "8e4c2ad01a64fceab704b86c", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_008", "condition": "unresolved"}
+{"id": "8f6573ddd073833188db9d44", "question_type": "factual_recall", "answer": "Chart Revenue", "family_id": "dev_family_016", "condition": "revised"}
+{"id": "8f6573ddd073833188db9d44", "question_type": "reference_resolution", "answer": "Chart Traffic", "family_id": "dev_family_016", "condition": "revised"}
+{"id": "8f6573ddd073833188db9d44", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_016", "condition": "revised"}
+{"id": "8f9e9cae7326bfb11d811bce", "question_type": "factual_recall", "answer": "Model Cedar", "family_id": "dev_family_013", "condition": "accepted"}
+{"id": "8f9e9cae7326bfb11d811bce", "question_type": "reference_resolution", "answer": "Model Cedar", "family_id": "dev_family_013", "condition": "accepted"}
+{"id": "8f9e9cae7326bfb11d811bce", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_013", "condition": "accepted"}
+{"id": "90f0f7066a799c68ea0c99f3", "question_type": "factual_recall", "answer": "Slide Risks", "family_id": "dev_family_048", "condition": "revised"}
+{"id": "90f0f7066a799c68ea0c99f3", "question_type": "reference_resolution", "answer": "Slide Intro", "family_id": "dev_family_048", "condition": "revised"}
+{"id": "90f0f7066a799c68ea0c99f3", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_048", "condition": "revised"}
+{"id": "9206898f22a96cc8cb401c64", "question_type": "factual_recall", "answer": "Prototype Dense", "family_id": "dev_family_019", "condition": "rejected"}
+{"id": "9206898f22a96cc8cb401c64", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_019", "condition": "rejected"}
+{"id": "9206898f22a96cc8cb401c64", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_019", "condition": "rejected"}
+{"id": "94f66d7e82583a87f91384d9", "question_type": "factual_recall", "answer": "Test Smoke", "family_id": "dev_family_011", "condition": "accepted"}
+{"id": "94f66d7e82583a87f91384d9", "question_type": "reference_resolution", "answer": "Test Smoke", "family_id": "dev_family_011", "condition": "accepted"}
+{"id": "94f66d7e82583a87f91384d9", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_011", "condition": "accepted"}
+{"id": "958c98735d3d0c0fc355168b", "question_type": "factual_recall", "answer": "Document Review", "family_id": "dev_family_021", "condition": "accepted"}
+{"id": "958c98735d3d0c0fc355168b", "question_type": "reference_resolution", "answer": "Document Review", "family_id": "dev_family_021", "condition": "accepted"}
+{"id": "958c98735d3d0c0fc355168b", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_021", "condition": "accepted"}
+{"id": "964fcd49b874ae92a711f67f", "question_type": "factual_recall", "answer": "Prototype Medium", "family_id": "dev_family_043", "condition": "accepted"}
+{"id": "964fcd49b874ae92a711f67f", "question_type": "reference_resolution", "answer": "Prototype Medium", "family_id": "dev_family_043", "condition": "accepted"}
+{"id": "964fcd49b874ae92a711f67f", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_043", "condition": "accepted"}
+{"id": "966043d02eb5d82b718523de", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_058", "condition": "rejected"}
+{"id": "966043d02eb5d82b718523de", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_058", "condition": "rejected"}
+{"id": "966043d02eb5d82b718523de", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_058", "condition": "rejected"}
+{"id": "96a7f50418a9035400cc1797", "question_type": "factual_recall", "answer": "Document Appendix", "family_id": "dev_family_069", "condition": "unresolved"}
+{"id": "96a7f50418a9035400cc1797", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_069", "condition": "unresolved"}
+{"id": "96a7f50418a9035400cc1797", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_069", "condition": "unresolved"}
+{"id": "9831f6f729227282a9707536", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_078", "condition": "accepted"}
+{"id": "9831f6f729227282a9707536", "question_type": "reference_resolution", "answer": "Branch Copper", "family_id": "dev_family_078", "condition": "accepted"}
+{"id": "9831f6f729227282a9707536", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_078", "condition": "accepted"}
+{"id": "98da3621fc952002d43ac20c", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_023", "condition": "accepted"}
+{"id": "98da3621fc952002d43ac20c", "question_type": "reference_resolution", "answer": "Test API", "family_id": "dev_family_023", "condition": "accepted"}
+{"id": "98da3621fc952002d43ac20c", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_023", "condition": "accepted"}
+{"id": "9925975b13d4d0a77c9a7cda", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_031", "condition": "accepted"}
+{"id": "9925975b13d4d0a77c9a7cda", "question_type": "reference_resolution", "answer": "Prototype Wide", "family_id": "dev_family_031", "condition": "accepted"}
+{"id": "9925975b13d4d0a77c9a7cda", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_031", "condition": "accepted"}
+{"id": "9927cab4a9b90a10edc447da", "question_type": "factual_recall", "answer": "Room Cypress", "family_id": "dev_family_041", "condition": "accepted"}
+{"id": "9927cab4a9b90a10edc447da", "question_type": "reference_resolution", "answer": "Room Cypress", "family_id": "dev_family_041", "condition": "accepted"}
+{"id": "9927cab4a9b90a10edc447da", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_041", "condition": "accepted"}
+{"id": "994db11cc85769797767f4e4", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_055", "condition": "accepted"}
+{"id": "994db11cc85769797767f4e4", "question_type": "reference_resolution", "answer": "Prototype Wide", "family_id": "dev_family_055", "condition": "accepted"}
+{"id": "994db11cc85769797767f4e4", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_055", "condition": "accepted"}
+{"id": "99de81ecf864c08538c58606", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_025", "condition": "rejected"}
+{"id": "99de81ecf864c08538c58606", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_025", "condition": "rejected"}
+{"id": "99de81ecf864c08538c58606", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_025", "condition": "rejected"}
+{"id": "9ac324f319abfd829a366f1a", "question_type": "factual_recall", "answer": "Experiment Beta", "family_id": "dev_family_075", "condition": "revised"}
+{"id": "9ac324f319abfd829a366f1a", "question_type": "reference_resolution", "answer": "Experiment Eta", "family_id": "dev_family_075", "condition": "revised"}
+{"id": "9ac324f319abfd829a366f1a", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_075", "condition": "revised"}
+{"id": "9af05a17038212b983899e06", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_018", "condition": "accepted"}
+{"id": "9af05a17038212b983899e06", "question_type": "reference_resolution", "answer": "Branch Silver", "family_id": "dev_family_018", "condition": "accepted"}
+{"id": "9af05a17038212b983899e06", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_018", "condition": "accepted"}
+{"id": "9b5a3c47c46f4110d3fe5091", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_029", "condition": "unresolved"}
+{"id": "9b5a3c47c46f4110d3fe5091", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_029", "condition": "unresolved"}
+{"id": "9b5a3c47c46f4110d3fe5091", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_029", "condition": "unresolved"}
+{"id": "9cd481c0885789c92fee61bd", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_039", "condition": "accepted"}
+{"id": "9cd481c0885789c92fee61bd", "question_type": "reference_resolution", "answer": "Experiment Zeta", "family_id": "dev_family_039", "condition": "accepted"}
+{"id": "9cd481c0885789c92fee61bd", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_039", "condition": "accepted"}
+{"id": "9e5089d1bba0ec043da2f62d", "question_type": "factual_recall", "answer": "Workflow Deploy", "family_id": "dev_family_070", "condition": "accepted"}
+{"id": "9e5089d1bba0ec043da2f62d", "question_type": "reference_resolution", "answer": "Workflow Deploy", "family_id": "dev_family_070", "condition": "accepted"}
+{"id": "9e5089d1bba0ec043da2f62d", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_070", "condition": "accepted"}
+{"id": "9e7c56f0615868cea1e92e8c", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_074", "condition": "accepted"}
+{"id": "9e7c56f0615868cea1e92e8c", "question_type": "reference_resolution", "answer": "Folder North", "family_id": "dev_family_074", "condition": "accepted"}
+{"id": "9e7c56f0615868cea1e92e8c", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_074", "condition": "accepted"}
+{"id": "9f4b2928d96c5983a5b851e6", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_060", "condition": "rejected"}
+{"id": "9f4b2928d96c5983a5b851e6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_060", "condition": "rejected"}
+{"id": "9f4b2928d96c5983a5b851e6", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_060", "condition": "rejected"}
+{"id": "9fb05d53ca92c24a37306ee0", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_054", "condition": "rejected"}
+{"id": "9fb05d53ca92c24a37306ee0", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_054", "condition": "rejected"}
+{"id": "9fb05d53ca92c24a37306ee0", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_054", "condition": "rejected"}
+{"id": "9fc80b6641b5425e69115f14", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_078", "condition": "unresolved"}
+{"id": "9fc80b6641b5425e69115f14", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_078", "condition": "unresolved"}
+{"id": "9fc80b6641b5425e69115f14", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_078", "condition": "unresolved"}
+{"id": "a0367efb4e346cb6d7a74d6f", "question_type": "factual_recall", "answer": "Chart Errors", "family_id": "dev_family_040", "condition": "revised"}
+{"id": "a0367efb4e346cb6d7a74d6f", "question_type": "reference_resolution", "answer": "Chart Traffic", "family_id": "dev_family_040", "condition": "revised"}
+{"id": "a0367efb4e346cb6d7a74d6f", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_040", "condition": "revised"}
+{"id": "a07995d14fc790de0cb2d1e0", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_076", "condition": "accepted"}
+{"id": "a07995d14fc790de0cb2d1e0", "question_type": "reference_resolution", "answer": "Chart Latency", "family_id": "dev_family_076", "condition": "accepted"}
+{"id": "a07995d14fc790de0cb2d1e0", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_076", "condition": "accepted"}
+{"id": "a11352f1dccc5300bf2431dd", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_037", "condition": "unresolved"}
+{"id": "a11352f1dccc5300bf2431dd", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_037", "condition": "unresolved"}
+{"id": "a11352f1dccc5300bf2431dd", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_037", "condition": "unresolved"}
+{"id": "a123e36759011d5f4f67f0d7", "question_type": "factual_recall", "answer": "Workflow Review", "family_id": "dev_family_010", "condition": "unresolved"}
+{"id": "a123e36759011d5f4f67f0d7", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_010", "condition": "unresolved"}
+{"id": "a123e36759011d5f4f67f0d7", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_010", "condition": "unresolved"}
+{"id": "a1c406e19ce634eb151b4e6a", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_006", "condition": "unresolved"}
+{"id": "a1c406e19ce634eb151b4e6a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_006", "condition": "unresolved"}
+{"id": "a1c406e19ce634eb151b4e6a", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_006", "condition": "unresolved"}
+{"id": "a3a526a6a7b5edd05c3b1d32", "question_type": "factual_recall", "answer": "Workflow Approve", "family_id": "dev_family_022", "condition": "rejected"}
+{"id": "a3a526a6a7b5edd05c3b1d32", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_022", "condition": "rejected"}
+{"id": "a3a526a6a7b5edd05c3b1d32", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_022", "condition": "rejected"}
+{"id": "a4a88e74e9968ba9717dd2a5", "question_type": "factual_recall", "answer": "Dataset Pilot", "family_id": "dev_family_080", "condition": "accepted"}
+{"id": "a4a88e74e9968ba9717dd2a5", "question_type": "reference_resolution", "answer": "Dataset Pilot", "family_id": "dev_family_080", "condition": "accepted"}
+{"id": "a4a88e74e9968ba9717dd2a5", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_080", "condition": "accepted"}
+{"id": "a6277c22670f9d395b3b4362", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_030", "condition": "accepted"}
+{"id": "a6277c22670f9d395b3b4362", "question_type": "reference_resolution", "answer": "Branch Amber", "family_id": "dev_family_030", "condition": "accepted"}
+{"id": "a6277c22670f9d395b3b4362", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_030", "condition": "accepted"}
+{"id": "a710aa3cac86ea79733b73b8", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_027", "condition": "rejected"}
+{"id": "a710aa3cac86ea79733b73b8", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_027", "condition": "rejected"}
+{"id": "a710aa3cac86ea79733b73b8", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_027", "condition": "rejected"}
+{"id": "a79afd8c2633dfcea0a07883", "question_type": "factual_recall", "answer": "Prototype Dense", "family_id": "dev_family_019", "condition": "accepted"}
+{"id": "a79afd8c2633dfcea0a07883", "question_type": "reference_resolution", "answer": "Prototype Dense", "family_id": "dev_family_019", "condition": "accepted"}
+{"id": "a79afd8c2633dfcea0a07883", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_019", "condition": "accepted"}
+{"id": "a8a466796f042cd74a4c09c4", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_001", "condition": "unresolved"}
+{"id": "a8a466796f042cd74a4c09c4", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_001", "condition": "unresolved"}
+{"id": "a8a466796f042cd74a4c09c4", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_001", "condition": "unresolved"}
+{"id": "a8b45aa49466356da679cef5", "question_type": "factual_recall", "answer": "Chart Errors", "family_id": "dev_family_040", "condition": "unresolved"}
+{"id": "a8b45aa49466356da679cef5", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_040", "condition": "unresolved"}
+{"id": "a8b45aa49466356da679cef5", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_040", "condition": "unresolved"}
+{"id": "a942500e26ee8918fea29351", "question_type": "factual_recall", "answer": "Workflow Approve", "family_id": "dev_family_022", "condition": "revised"}
+{"id": "a942500e26ee8918fea29351", "question_type": "reference_resolution", "answer": "Workflow Archive", "family_id": "dev_family_022", "condition": "revised"}
+{"id": "a942500e26ee8918fea29351", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_022", "condition": "revised"}
+{"id": "a99cc6cfad28a24c2c781df3", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_059", "condition": "unresolved"}
+{"id": "a99cc6cfad28a24c2c781df3", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_059", "condition": "unresolved"}
+{"id": "a99cc6cfad28a24c2c781df3", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_059", "condition": "unresolved"}
+{"id": "aa25782fcbdee857fc129e43", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_026", "condition": "unresolved"}
+{"id": "aa25782fcbdee857fc129e43", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_026", "condition": "unresolved"}
+{"id": "aa25782fcbdee857fc129e43", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_026", "condition": "unresolved"}
+{"id": "aa936151e58a57a01d76861d", "question_type": "factual_recall", "answer": "Prototype Medium", "family_id": "dev_family_043", "condition": "revised"}
+{"id": "aa936151e58a57a01d76861d", "question_type": "reference_resolution", "answer": "Prototype Compact", "family_id": "dev_family_043", "condition": "revised"}
+{"id": "aa936151e58a57a01d76861d", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_043", "condition": "revised"}
+{"id": "acd1b82e034efe41b6d18ef4", "question_type": "factual_recall", "answer": "Dataset Control", "family_id": "dev_family_032", "condition": "unresolved"}
+{"id": "acd1b82e034efe41b6d18ef4", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_032", "condition": "unresolved"}
+{"id": "acd1b82e034efe41b6d18ef4", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_032", "condition": "unresolved"}
+{"id": "acea6a38c89514107d46adf6", "question_type": "factual_recall", "answer": "Prototype Dense", "family_id": "dev_family_019", "condition": "unresolved"}
+{"id": "acea6a38c89514107d46adf6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_019", "condition": "unresolved"}
+{"id": "acea6a38c89514107d46adf6", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_019", "condition": "unresolved"}
+{"id": "ad4c6c0f301a643615d9dbf6", "question_type": "factual_recall", "answer": "Dataset Audit", "family_id": "dev_family_068", "condition": "rejected"}
+{"id": "ad4c6c0f301a643615d9dbf6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_068", "condition": "rejected"}
+{"id": "ad4c6c0f301a643615d9dbf6", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_068", "condition": "rejected"}
+{"id": "ade31cbc2bb56a244b86206b", "question_type": "factual_recall", "answer": "Room Cypress", "family_id": "dev_family_041", "condition": "revised"}
+{"id": "ade31cbc2bb56a244b86206b", "question_type": "reference_resolution", "answer": "Room Poplar", "family_id": "dev_family_041", "condition": "revised"}
+{"id": "ade31cbc2bb56a244b86206b", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_041", "condition": "revised"}
+{"id": "ae2694d5b7466a71ac41bb63", "question_type": "factual_recall", "answer": "Test Smoke", "family_id": "dev_family_011", "condition": "revised"}
+{"id": "ae2694d5b7466a71ac41bb63", "question_type": "reference_resolution", "answer": "Test Integration", "family_id": "dev_family_011", "condition": "revised"}
+{"id": "ae2694d5b7466a71ac41bb63", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_011", "condition": "revised"}
+{"id": "ae32e14f27b576f366f90fd9", "question_type": "factual_recall", "answer": "Model Cedar", "family_id": "dev_family_013", "condition": "rejected"}
+{"id": "ae32e14f27b576f366f90fd9", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_013", "condition": "rejected"}
+{"id": "ae32e14f27b576f366f90fd9", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_013", "condition": "rejected"}
+{"id": "aec21dd0d288291295bc9eba", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_014", "condition": "rejected"}
+{"id": "aec21dd0d288291295bc9eba", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_014", "condition": "rejected"}
+{"id": "aec21dd0d288291295bc9eba", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_014", "condition": "rejected"}
+{"id": "af0c0fc425d957f2f3fc70b6", "question_type": "factual_recall", "answer": "Model Cedar", "family_id": "dev_family_013", "condition": "unresolved"}
+{"id": "af0c0fc425d957f2f3fc70b6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_013", "condition": "unresolved"}
+{"id": "af0c0fc425d957f2f3fc70b6", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_013", "condition": "unresolved"}
+{"id": "af3f8f260691aebbc521ae7e", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_014", "condition": "accepted"}
+{"id": "af3f8f260691aebbc521ae7e", "question_type": "reference_resolution", "answer": "Folder North", "family_id": "dev_family_014", "condition": "accepted"}
+{"id": "af3f8f260691aebbc521ae7e", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_014", "condition": "accepted"}
+{"id": "af75f2c9d5c4c712b9736710", "question_type": "factual_recall", "answer": "Model Cedar", "family_id": "dev_family_013", "condition": "revised"}
+{"id": "af75f2c9d5c4c712b9736710", "question_type": "reference_resolution", "answer": "Model Aspen", "family_id": "dev_family_013", "condition": "revised"}
+{"id": "af75f2c9d5c4c712b9736710", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_013", "condition": "revised"}
+{"id": "b0118cc7f4861c7275a81d62", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_062", "condition": "rejected"}
+{"id": "b0118cc7f4861c7275a81d62", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_062", "condition": "rejected"}
+{"id": "b0118cc7f4861c7275a81d62", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_062", "condition": "rejected"}
+{"id": "b01f09786b6720ff104b650a", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_015", "condition": "unresolved"}
+{"id": "b01f09786b6720ff104b650a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_015", "condition": "unresolved"}
+{"id": "b01f09786b6720ff104b650a", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_015", "condition": "unresolved"}
+{"id": "b033937511a6d0b1195e2bf2", "question_type": "factual_recall", "answer": "Dataset Review", "family_id": "dev_family_020", "condition": "revised"}
+{"id": "b033937511a6d0b1195e2bf2", "question_type": "reference_resolution", "answer": "Dataset Pilot", "family_id": "dev_family_020", "condition": "revised"}
+{"id": "b033937511a6d0b1195e2bf2", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_020", "condition": "revised"}
+{"id": "b14767cde3847b4751af06bd", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_028", "condition": "rejected"}
+{"id": "b14767cde3847b4751af06bd", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_028", "condition": "rejected"}
+{"id": "b14767cde3847b4751af06bd", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_028", "condition": "rejected"}
+{"id": "b1de2dad004d751889da2df7", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_073", "condition": "accepted"}
+{"id": "b1de2dad004d751889da2df7", "question_type": "reference_resolution", "answer": "Model Spruce", "family_id": "dev_family_073", "condition": "accepted"}
+{"id": "b1de2dad004d751889da2df7", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_073", "condition": "accepted"}
+{"id": "b26ce777ac33a234c1b3bd23", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_038", "condition": "revised"}
+{"id": "b26ce777ac33a234c1b3bd23", "question_type": "reference_resolution", "answer": "Folder Archive", "family_id": "dev_family_038", "condition": "revised"}
+{"id": "b26ce777ac33a234c1b3bd23", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_038", "condition": "revised"}
+{"id": "b28c6bb1771ee9490a453588", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_035", "condition": "rejected"}
+{"id": "b28c6bb1771ee9490a453588", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_035", "condition": "rejected"}
+{"id": "b28c6bb1771ee9490a453588", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_035", "condition": "rejected"}
+{"id": "b2c2de50df8a90e9733cb96e", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_064", "condition": "rejected"}
+{"id": "b2c2de50df8a90e9733cb96e", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_064", "condition": "rejected"}
+{"id": "b2c2de50df8a90e9733cb96e", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_064", "condition": "rejected"}
+{"id": "b37af353e3364bb62d4039d8", "question_type": "factual_recall", "answer": "Experiment Eta", "family_id": "dev_family_063", "condition": "rejected"}
+{"id": "b37af353e3364bb62d4039d8", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_063", "condition": "rejected"}
+{"id": "b37af353e3364bb62d4039d8", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_063", "condition": "rejected"}
+{"id": "b49295b9c8a97aaed9b15ab3", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_023", "condition": "revised"}
+{"id": "b49295b9c8a97aaed9b15ab3", "question_type": "reference_resolution", "answer": "Test Client", "family_id": "dev_family_023", "condition": "revised"}
+{"id": "b49295b9c8a97aaed9b15ab3", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_023", "condition": "revised"}
+{"id": "b516d471e08c4f9f32b1fbdd", "question_type": "factual_recall", "answer": "Slide Methods", "family_id": "dev_family_012", "condition": "rejected"}
+{"id": "b516d471e08c4f9f32b1fbdd", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_012", "condition": "rejected"}
+{"id": "b516d471e08c4f9f32b1fbdd", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_012", "condition": "rejected"}
+{"id": "b5f943f35550bb5ce44e2e4f", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_062", "condition": "accepted"}
+{"id": "b5f943f35550bb5ce44e2e4f", "question_type": "reference_resolution", "answer": "Folder East", "family_id": "dev_family_062", "condition": "accepted"}
+{"id": "b5f943f35550bb5ce44e2e4f", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_062", "condition": "accepted"}
+{"id": "b66773fb0e04a8361833520b", "question_type": "factual_recall", "answer": "Experiment Beta", "family_id": "dev_family_075", "condition": "accepted"}
+{"id": "b66773fb0e04a8361833520b", "question_type": "reference_resolution", "answer": "Experiment Beta", "family_id": "dev_family_075", "condition": "accepted"}
+{"id": "b66773fb0e04a8361833520b", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_075", "condition": "accepted"}
+{"id": "b76cffe7a98686c84953eaef", "question_type": "factual_recall", "answer": "Test Smoke", "family_id": "dev_family_011", "condition": "rejected"}
+{"id": "b76cffe7a98686c84953eaef", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_011", "condition": "rejected"}
+{"id": "b76cffe7a98686c84953eaef", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_011", "condition": "rejected"}
+{"id": "b798945b4f1aa038c64b988c", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_026", "condition": "accepted"}
+{"id": "b798945b4f1aa038c64b988c", "question_type": "reference_resolution", "answer": "Folder West", "family_id": "dev_family_026", "condition": "accepted"}
+{"id": "b798945b4f1aa038c64b988c", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_026", "condition": "accepted"}
+{"id": "b7d56c76d7cdac2b9e4b8693", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_026", "condition": "rejected"}
+{"id": "b7d56c76d7cdac2b9e4b8693", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_026", "condition": "rejected"}
+{"id": "b7d56c76d7cdac2b9e4b8693", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_026", "condition": "rejected"}
+{"id": "b9a3e2bef2eefaf4dafe0be4", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_017", "condition": "accepted"}
+{"id": "b9a3e2bef2eefaf4dafe0be4", "question_type": "reference_resolution", "answer": "Room Hickory", "family_id": "dev_family_017", "condition": "accepted"}
+{"id": "b9a3e2bef2eefaf4dafe0be4", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_017", "condition": "accepted"}
+{"id": "ba206afbb6306ef66b59f09e", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_060", "condition": "unresolved"}
+{"id": "ba206afbb6306ef66b59f09e", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_060", "condition": "unresolved"}
+{"id": "ba206afbb6306ef66b59f09e", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_060", "condition": "unresolved"}
+{"id": "bb149c1b24a6f6da8df446c6", "question_type": "factual_recall", "answer": "Dataset Pilot", "family_id": "dev_family_080", "condition": "rejected"}
+{"id": "bb149c1b24a6f6da8df446c6", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_080", "condition": "rejected"}
+{"id": "bb149c1b24a6f6da8df446c6", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_080", "condition": "rejected"}
+{"id": "bbbd43d54b6cbc68dd767cba", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_031", "condition": "revised"}
+{"id": "bbbd43d54b6cbc68dd767cba", "question_type": "reference_resolution", "answer": "Prototype Compact", "family_id": "dev_family_031", "condition": "revised"}
+{"id": "bbbd43d54b6cbc68dd767cba", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_031", "condition": "revised"}
+{"id": "bcee182322ba69768f22f2af", "question_type": "factual_recall", "answer": "Model Aspen", "family_id": "dev_family_061", "condition": "accepted"}
+{"id": "bcee182322ba69768f22f2af", "question_type": "reference_resolution", "answer": "Model Aspen", "family_id": "dev_family_061", "condition": "accepted"}
+{"id": "bcee182322ba69768f22f2af", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_061", "condition": "accepted"}
+{"id": "bdcabcddfb3f99cc0336bfbb", "question_type": "factual_recall", "answer": "Model Spruce", "family_id": "dev_family_073", "condition": "unresolved"}
+{"id": "bdcabcddfb3f99cc0336bfbb", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_073", "condition": "unresolved"}
+{"id": "bdcabcddfb3f99cc0336bfbb", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_073", "condition": "unresolved"}
+{"id": "bfc3cbd04734de532d0016cc", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_078", "condition": "rejected"}
+{"id": "bfc3cbd04734de532d0016cc", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_078", "condition": "rejected"}
+{"id": "bfc3cbd04734de532d0016cc", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_078", "condition": "rejected"}
+{"id": "c0a08ff188b51519b2db3130", "question_type": "factual_recall", "answer": "Prototype Wide", "family_id": "dev_family_007", "condition": "unresolved"}
+{"id": "c0a08ff188b51519b2db3130", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_007", "condition": "unresolved"}
+{"id": "c0a08ff188b51519b2db3130", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_007", "condition": "unresolved"}
+{"id": "c0d0b7d1cd43e19693c3a537", "question_type": "factual_recall", "answer": "Workflow Route", "family_id": "dev_family_058", "condition": "revised"}
+{"id": "c0d0b7d1cd43e19693c3a537", "question_type": "reference_resolution", "answer": "Workflow Deploy", "family_id": "dev_family_058", "condition": "revised"}
+{"id": "c0d0b7d1cd43e19693c3a537", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_058", "condition": "revised"}
+{"id": "c1cc5a8210768e65f1fe81c7", "question_type": "factual_recall", "answer": "Dataset Control", "family_id": "dev_family_032", "condition": "rejected"}
+{"id": "c1cc5a8210768e65f1fe81c7", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_032", "condition": "rejected"}
+{"id": "c1cc5a8210768e65f1fe81c7", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_032", "condition": "rejected"}
+{"id": "c29325ac709e2f3b30b6a5ba", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_029", "condition": "accepted"}
+{"id": "c29325ac709e2f3b30b6a5ba", "question_type": "reference_resolution", "answer": "Room Oak", "family_id": "dev_family_029", "condition": "accepted"}
+{"id": "c29325ac709e2f3b30b6a5ba", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_029", "condition": "accepted"}
+{"id": "c2c6c1a692b7345f4d59ab67", "question_type": "factual_recall", "answer": "Slide Results", "family_id": "dev_family_072", "condition": "unresolved"}
+{"id": "c2c6c1a692b7345f4d59ab67", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_072", "condition": "unresolved"}
+{"id": "c2c6c1a692b7345f4d59ab67", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_072", "condition": "unresolved"}
+{"id": "c2f4b34d69742c0b13f59fb3", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_037", "condition": "rejected"}
+{"id": "c2f4b34d69742c0b13f59fb3", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_037", "condition": "rejected"}
+{"id": "c2f4b34d69742c0b13f59fb3", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_037", "condition": "rejected"}
+{"id": "c30ac0ae92b1f8a5e9bf7317", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_030", "condition": "unresolved"}
+{"id": "c30ac0ae92b1f8a5e9bf7317", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_030", "condition": "unresolved"}
+{"id": "c30ac0ae92b1f8a5e9bf7317", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_030", "condition": "unresolved"}
+{"id": "c337c1ba1dcbfd6d504c5c35", "question_type": "factual_recall", "answer": "Room Laurel", "family_id": "dev_family_065", "condition": "accepted"}
+{"id": "c337c1ba1dcbfd6d504c5c35", "question_type": "reference_resolution", "answer": "Room Laurel", "family_id": "dev_family_065", "condition": "accepted"}
+{"id": "c337c1ba1dcbfd6d504c5c35", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_065", "condition": "accepted"}
+{"id": "c3e1ab1f71c296b4b9f3034d", "question_type": "factual_recall", "answer": "Document Review", "family_id": "dev_family_021", "condition": "revised"}
+{"id": "c3e1ab1f71c296b4b9f3034d", "question_type": "reference_resolution", "answer": "Document Methods", "family_id": "dev_family_021", "condition": "revised"}
+{"id": "c3e1ab1f71c296b4b9f3034d", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_021", "condition": "revised"}
+{"id": "c4c5b51e73967dffa802e4ee", "question_type": "factual_recall", "answer": "Prototype Medium", "family_id": "dev_family_043", "condition": "rejected"}
+{"id": "c4c5b51e73967dffa802e4ee", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_043", "condition": "rejected"}
+{"id": "c4c5b51e73967dffa802e4ee", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_043", "condition": "rejected"}
+{"id": "c4d47ad393ebf4311cda44b0", "question_type": "factual_recall", "answer": "Folder West", "family_id": "dev_family_026", "condition": "revised"}
+{"id": "c4d47ad393ebf4311cda44b0", "question_type": "reference_resolution", "answer": "Folder South", "family_id": "dev_family_026", "condition": "revised"}
+{"id": "c4d47ad393ebf4311cda44b0", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_026", "condition": "revised"}
+{"id": "c63284b48b1d7ee6e8c82f36", "question_type": "factual_recall", "answer": "Document Methods", "family_id": "dev_family_033", "condition": "revised"}
+{"id": "c63284b48b1d7ee6e8c82f36", "question_type": "reference_resolution", "answer": "Document Results", "family_id": "dev_family_033", "condition": "revised"}
+{"id": "c63284b48b1d7ee6e8c82f36", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_033", "condition": "revised"}
+{"id": "c717677423dd82e8735ca9a5", "question_type": "factual_recall", "answer": "Dataset Control", "family_id": "dev_family_032", "condition": "revised"}
+{"id": "c717677423dd82e8735ca9a5", "question_type": "reference_resolution", "answer": "Dataset Holdout", "family_id": "dev_family_032", "condition": "revised"}
+{"id": "c717677423dd82e8735ca9a5", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_032", "condition": "revised"}
+{"id": "c7e6f85fb209f0588d7779ab", "question_type": "factual_recall", "answer": "Chart Latency", "family_id": "dev_family_076", "condition": "unresolved"}
+{"id": "c7e6f85fb209f0588d7779ab", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_076", "condition": "unresolved"}
+{"id": "c7e6f85fb209f0588d7779ab", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_076", "condition": "unresolved"}
+{"id": "c7eae3e9174667f40e71b246", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_035", "condition": "revised"}
+{"id": "c7eae3e9174667f40e71b246", "question_type": "reference_resolution", "answer": "Test Load", "family_id": "dev_family_035", "condition": "revised"}
+{"id": "c7eae3e9174667f40e71b246", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_035", "condition": "revised"}
+{"id": "c84641a9bdc28cc0ddc3ff5e", "question_type": "factual_recall", "answer": "Dataset Control", "family_id": "dev_family_032", "condition": "accepted"}
+{"id": "c84641a9bdc28cc0ddc3ff5e", "question_type": "reference_resolution", "answer": "Dataset Control", "family_id": "dev_family_032", "condition": "accepted"}
+{"id": "c84641a9bdc28cc0ddc3ff5e", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_032", "condition": "accepted"}
+{"id": "c88170067d401008fc06bf63", "question_type": "factual_recall", "answer": "Experiment Eta", "family_id": "dev_family_063", "condition": "accepted"}
+{"id": "c88170067d401008fc06bf63", "question_type": "reference_resolution", "answer": "Experiment Eta", "family_id": "dev_family_063", "condition": "accepted"}
+{"id": "c88170067d401008fc06bf63", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_063", "condition": "accepted"}
+{"id": "c9f19b0a776c917b06d380f5", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_049", "condition": "revised"}
+{"id": "c9f19b0a776c917b06d380f5", "question_type": "reference_resolution", "answer": "Model Maple", "family_id": "dev_family_049", "condition": "revised"}
+{"id": "c9f19b0a776c917b06d380f5", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_049", "condition": "revised"}
+{"id": "cb0065b4d879c6fc7e1fac09", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_071", "condition": "revised"}
+{"id": "cb0065b4d879c6fc7e1fac09", "question_type": "reference_resolution", "answer": "Test Load", "family_id": "dev_family_071", "condition": "revised"}
+{"id": "cb0065b4d879c6fc7e1fac09", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_071", "condition": "revised"}
+{"id": "ccb4f9cea22b69d756386199", "question_type": "factual_recall", "answer": "Slide Risks", "family_id": "dev_family_048", "condition": "accepted"}
+{"id": "ccb4f9cea22b69d756386199", "question_type": "reference_resolution", "answer": "Slide Risks", "family_id": "dev_family_048", "condition": "accepted"}
+{"id": "ccb4f9cea22b69d756386199", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_048", "condition": "accepted"}
+{"id": "cdccb0d4f8d053a853108d6c", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_015", "condition": "rejected"}
+{"id": "cdccb0d4f8d053a853108d6c", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_015", "condition": "rejected"}
+{"id": "cdccb0d4f8d053a853108d6c", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_015", "condition": "rejected"}
+{"id": "ce1a39e813d55e9ba49abdd1", "question_type": "factual_recall", "answer": "Document Appendix", "family_id": "dev_family_069", "condition": "revised"}
+{"id": "ce1a39e813d55e9ba49abdd1", "question_type": "reference_resolution", "answer": "Document Summary", "family_id": "dev_family_069", "condition": "revised"}
+{"id": "ce1a39e813d55e9ba49abdd1", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_069", "condition": "revised"}
+{"id": "ce384a82338e5e9b27bfc39a", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_035", "condition": "accepted"}
+{"id": "ce384a82338e5e9b27bfc39a", "question_type": "reference_resolution", "answer": "Test Unit", "family_id": "dev_family_035", "condition": "accepted"}
+{"id": "ce384a82338e5e9b27bfc39a", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_035", "condition": "accepted"}
+{"id": "cfd619f6fb079aec01ebb183", "question_type": "factual_recall", "answer": "Branch Amber", "family_id": "dev_family_030", "condition": "rejected"}
+{"id": "cfd619f6fb079aec01ebb183", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_030", "condition": "rejected"}
+{"id": "cfd619f6fb079aec01ebb183", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_030", "condition": "rejected"}
+{"id": "d1210bc9f43501f567267295", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_004", "condition": "unresolved"}
+{"id": "d1210bc9f43501f567267295", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_004", "condition": "unresolved"}
+{"id": "d1210bc9f43501f567267295", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_004", "condition": "unresolved"}
+{"id": "d18001a45e77a6de05e0b60b", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_071", "condition": "accepted"}
+{"id": "d18001a45e77a6de05e0b60b", "question_type": "reference_resolution", "answer": "Test Unit", "family_id": "dev_family_071", "condition": "accepted"}
+{"id": "d18001a45e77a6de05e0b60b", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_071", "condition": "accepted"}
+{"id": "d27e21394f57423dbf1bef2c", "question_type": "factual_recall", "answer": "Experiment Zeta", "family_id": "dev_family_039", "condition": "revised"}
+{"id": "d27e21394f57423dbf1bef2c", "question_type": "reference_resolution", "answer": "Experiment Alpha", "family_id": "dev_family_039", "condition": "revised"}
+{"id": "d27e21394f57423dbf1bef2c", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_039", "condition": "revised"}
+{"id": "d35c7180ed3bf70e8d892654", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_042", "condition": "accepted"}
+{"id": "d35c7180ed3bf70e8d892654", "question_type": "reference_resolution", "answer": "Branch Silver", "family_id": "dev_family_042", "condition": "accepted"}
+{"id": "d35c7180ed3bf70e8d892654", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_042", "condition": "accepted"}
+{"id": "d4436015cc0715214a7422cd", "question_type": "factual_recall", "answer": "Model Birch", "family_id": "dev_family_037", "condition": "revised"}
+{"id": "d4436015cc0715214a7422cd", "question_type": "reference_resolution", "answer": "Model Spruce", "family_id": "dev_family_037", "condition": "revised"}
+{"id": "d4436015cc0715214a7422cd", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_037", "condition": "revised"}
+{"id": "d55378721aa5a5064af513a1", "question_type": "factual_recall", "answer": "Room Oak", "family_id": "dev_family_053", "condition": "revised"}
+{"id": "d55378721aa5a5064af513a1", "question_type": "reference_resolution", "answer": "Room Poplar", "family_id": "dev_family_053", "condition": "revised"}
+{"id": "d55378721aa5a5064af513a1", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_053", "condition": "revised"}
+{"id": "d5dd4016fea12b8a90f8e538", "question_type": "factual_recall", "answer": "Branch Copper", "family_id": "dev_family_054", "condition": "unresolved"}
+{"id": "d5dd4016fea12b8a90f8e538", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_054", "condition": "unresolved"}
+{"id": "d5dd4016fea12b8a90f8e538", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_054", "condition": "unresolved"}
+{"id": "d8441291a1678ecbd1396baf", "question_type": "factual_recall", "answer": "Document Review", "family_id": "dev_family_021", "condition": "unresolved"}
+{"id": "d8441291a1678ecbd1396baf", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_021", "condition": "unresolved"}
+{"id": "d8441291a1678ecbd1396baf", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_021", "condition": "unresolved"}
+{"id": "d85599f64c43f89c6c95b8fb", "question_type": "factual_recall", "answer": "Document Methods", "family_id": "dev_family_033", "condition": "rejected"}
+{"id": "d85599f64c43f89c6c95b8fb", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_033", "condition": "rejected"}
+{"id": "d85599f64c43f89c6c95b8fb", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_033", "condition": "rejected"}
+{"id": "d86523085cb3104921d96f80", "question_type": "factual_recall", "answer": "Branch Violet", "family_id": "dev_family_066", "condition": "unresolved"}
+{"id": "d86523085cb3104921d96f80", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_066", "condition": "unresolved"}
+{"id": "d86523085cb3104921d96f80", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_066", "condition": "unresolved"}
+{"id": "d8fd368d93c02c6e30361470", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_035", "condition": "unresolved"}
+{"id": "d8fd368d93c02c6e30361470", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_035", "condition": "unresolved"}
+{"id": "d8fd368d93c02c6e30361470", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_035", "condition": "unresolved"}
+{"id": "daf2cff9ac465b69f32a4f60", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_042", "condition": "unresolved"}
+{"id": "daf2cff9ac465b69f32a4f60", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_042", "condition": "unresolved"}
+{"id": "daf2cff9ac465b69f32a4f60", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_042", "condition": "unresolved"}
+{"id": "dd22537f17ba7e193e8a1ce1", "question_type": "factual_recall", "answer": "Dataset Audit", "family_id": "dev_family_068", "condition": "unresolved"}
+{"id": "dd22537f17ba7e193e8a1ce1", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_068", "condition": "unresolved"}
+{"id": "dd22537f17ba7e193e8a1ce1", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_068", "condition": "unresolved"}
+{"id": "df035ef734cd41f6427328ff", "question_type": "factual_recall", "answer": "Room Laurel", "family_id": "dev_family_065", "condition": "unresolved"}
+{"id": "df035ef734cd41f6427328ff", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_065", "condition": "unresolved"}
+{"id": "df035ef734cd41f6427328ff", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_065", "condition": "unresolved"}
+{"id": "df9876d1887027c22657dcc6", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_005", "condition": "revised"}
+{"id": "df9876d1887027c22657dcc6", "question_type": "reference_resolution", "answer": "Room Juniper", "family_id": "dev_family_005", "condition": "revised"}
+{"id": "df9876d1887027c22657dcc6", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_005", "condition": "revised"}
+{"id": "e083dae7e3d2e3448add256b", "question_type": "factual_recall", "answer": "Slide Intro", "family_id": "dev_family_036", "condition": "unresolved"}
+{"id": "e083dae7e3d2e3448add256b", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_036", "condition": "unresolved"}
+{"id": "e083dae7e3d2e3448add256b", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_036", "condition": "unresolved"}
+{"id": "e38a7cf3d1f744765bbb4f6a", "question_type": "factual_recall", "answer": "Slide Risks", "family_id": "dev_family_048", "condition": "rejected"}
+{"id": "e38a7cf3d1f744765bbb4f6a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_048", "condition": "rejected"}
+{"id": "e38a7cf3d1f744765bbb4f6a", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_048", "condition": "rejected"}
+{"id": "e433641e418791a9963587d9", "question_type": "factual_recall", "answer": "Room Hickory", "family_id": "dev_family_017", "condition": "rejected"}
+{"id": "e433641e418791a9963587d9", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_017", "condition": "rejected"}
+{"id": "e433641e418791a9963587d9", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_017", "condition": "rejected"}
+{"id": "e49029310e9b95f5ae6238b0", "question_type": "factual_recall", "answer": "Prototype Large", "family_id": "dev_family_079", "condition": "rejected"}
+{"id": "e49029310e9b95f5ae6238b0", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_079", "condition": "rejected"}
+{"id": "e49029310e9b95f5ae6238b0", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_079", "condition": "rejected"}
+{"id": "e6410312d586b6dfc509de93", "question_type": "factual_recall", "answer": "Dataset Training", "family_id": "dev_family_008", "condition": "accepted"}
+{"id": "e6410312d586b6dfc509de93", "question_type": "reference_resolution", "answer": "Dataset Training", "family_id": "dev_family_008", "condition": "accepted"}
+{"id": "e6410312d586b6dfc509de93", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_008", "condition": "accepted"}
+{"id": "e694c557a5b0f175c0e0e3eb", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_045", "condition": "revised"}
+{"id": "e694c557a5b0f175c0e0e3eb", "question_type": "reference_resolution", "answer": "Document Notes", "family_id": "dev_family_045", "condition": "revised"}
+{"id": "e694c557a5b0f175c0e0e3eb", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_045", "condition": "revised"}
+{"id": "e9bf4676eaa0ac61a5a0c76e", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_045", "condition": "unresolved"}
+{"id": "e9bf4676eaa0ac61a5a0c76e", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_045", "condition": "unresolved"}
+{"id": "e9bf4676eaa0ac61a5a0c76e", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_045", "condition": "unresolved"}
+{"id": "ea91790127dfd2d797eb1755", "question_type": "factual_recall", "answer": "Branch Violet", "family_id": "dev_family_066", "condition": "revised"}
+{"id": "ea91790127dfd2d797eb1755", "question_type": "reference_resolution", "answer": "Branch Indigo", "family_id": "dev_family_066", "condition": "revised"}
+{"id": "ea91790127dfd2d797eb1755", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_066", "condition": "revised"}
+{"id": "eababe9b62d0b805d118348d", "question_type": "factual_recall", "answer": "Branch Violet", "family_id": "dev_family_066", "condition": "rejected"}
+{"id": "eababe9b62d0b805d118348d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_066", "condition": "rejected"}
+{"id": "eababe9b62d0b805d118348d", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_066", "condition": "rejected"}
+{"id": "ef6db3c5b54d21aab447472b", "question_type": "factual_recall", "answer": "Experiment Alpha", "family_id": "dev_family_027", "condition": "unresolved"}
+{"id": "ef6db3c5b54d21aab447472b", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_027", "condition": "unresolved"}
+{"id": "ef6db3c5b54d21aab447472b", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_027", "condition": "unresolved"}
+{"id": "f139c6ae837d7fb9edb100e6", "question_type": "factual_recall", "answer": "Test API", "family_id": "dev_family_059", "condition": "accepted"}
+{"id": "f139c6ae837d7fb9edb100e6", "question_type": "reference_resolution", "answer": "Test API", "family_id": "dev_family_059", "condition": "accepted"}
+{"id": "f139c6ae837d7fb9edb100e6", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_059", "condition": "accepted"}
+{"id": "f2884a4e783fbd3bf8a55eaa", "question_type": "factual_recall", "answer": "Branch Silver", "family_id": "dev_family_042", "condition": "revised"}
+{"id": "f2884a4e783fbd3bf8a55eaa", "question_type": "reference_resolution", "answer": "Branch Coral", "family_id": "dev_family_042", "condition": "revised"}
+{"id": "f2884a4e783fbd3bf8a55eaa", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_042", "condition": "revised"}
+{"id": "f2a822083f0014af9d1bd363", "question_type": "factual_recall", "answer": "Experiment Delta", "family_id": "dev_family_051", "condition": "unresolved"}
+{"id": "f2a822083f0014af9d1bd363", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_051", "condition": "unresolved"}
+{"id": "f2a822083f0014af9d1bd363", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_051", "condition": "unresolved"}
+{"id": "f2d86b61b9ae60154148c68a", "question_type": "factual_recall", "answer": "Test Unit", "family_id": "dev_family_071", "condition": "unresolved"}
+{"id": "f2d86b61b9ae60154148c68a", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_071", "condition": "unresolved"}
+{"id": "f2d86b61b9ae60154148c68a", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_071", "condition": "unresolved"}
+{"id": "f3756ae69b8555894f1fe569", "question_type": "factual_recall", "answer": "Document Methods", "family_id": "dev_family_033", "condition": "unresolved"}
+{"id": "f3756ae69b8555894f1fe569", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_033", "condition": "unresolved"}
+{"id": "f3756ae69b8555894f1fe569", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_033", "condition": "unresolved"}
+{"id": "f3c2dc6036597f42385285c3", "question_type": "factual_recall", "answer": "Slide Timeline", "family_id": "dev_family_024", "condition": "unresolved"}
+{"id": "f3c2dc6036597f42385285c3", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_024", "condition": "unresolved"}
+{"id": "f3c2dc6036597f42385285c3", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_024", "condition": "unresolved"}
+{"id": "f6adc71742d0f5450d70a51b", "question_type": "factual_recall", "answer": "Prototype Medium", "family_id": "dev_family_043", "condition": "unresolved"}
+{"id": "f6adc71742d0f5450d70a51b", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_043", "condition": "unresolved"}
+{"id": "f6adc71742d0f5450d70a51b", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_043", "condition": "unresolved"}
+{"id": "f7dfc8fd25b6e97fe7161e97", "question_type": "factual_recall", "answer": "Dataset Training", "family_id": "dev_family_008", "condition": "revised"}
+{"id": "f7dfc8fd25b6e97fe7161e97", "question_type": "reference_resolution", "answer": "Dataset Control", "family_id": "dev_family_008", "condition": "revised"}
+{"id": "f7dfc8fd25b6e97fe7161e97", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_008", "condition": "revised"}
+{"id": "f9dc3ccca24ebc7910a3a869", "question_type": "factual_recall", "answer": "Slide Methods", "family_id": "dev_family_012", "condition": "unresolved"}
+{"id": "f9dc3ccca24ebc7910a3a869", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_012", "condition": "unresolved"}
+{"id": "f9dc3ccca24ebc7910a3a869", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_012", "condition": "unresolved"}
+{"id": "fa98aed1c78847af4d6fe5ab", "question_type": "factual_recall", "answer": "Chart Revenue", "family_id": "dev_family_016", "condition": "unresolved"}
+{"id": "fa98aed1c78847af4d6fe5ab", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_016", "condition": "unresolved"}
+{"id": "fa98aed1c78847af4d6fe5ab", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_016", "condition": "unresolved"}
+{"id": "fb4e3ce9680fbc1eebd6ea9f", "question_type": "factual_recall", "answer": "Prototype Large", "family_id": "dev_family_079", "condition": "unresolved"}
+{"id": "fb4e3ce9680fbc1eebd6ea9f", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_079", "condition": "unresolved"}
+{"id": "fb4e3ce9680fbc1eebd6ea9f", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_079", "condition": "unresolved"}
+{"id": "fbdd12c0faf0bee40f24942c", "question_type": "factual_recall", "answer": "Slide Timeline", "family_id": "dev_family_024", "condition": "rejected"}
+{"id": "fbdd12c0faf0bee40f24942c", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_024", "condition": "rejected"}
+{"id": "fbdd12c0faf0bee40f24942c", "question_type": "grounding_status", "answer": "REJECTED", "family_id": "dev_family_024", "condition": "rejected"}
+{"id": "fc3f8c53debdd87d44425b87", "question_type": "factual_recall", "answer": "Slide Timeline", "family_id": "dev_family_024", "condition": "revised"}
+{"id": "fc3f8c53debdd87d44425b87", "question_type": "reference_resolution", "answer": "Slide Methods", "family_id": "dev_family_024", "condition": "revised"}
+{"id": "fc3f8c53debdd87d44425b87", "question_type": "grounding_status", "answer": "SUPERSEDED", "family_id": "dev_family_024", "condition": "revised"}
+{"id": "fcb60789658f1af08b2fe30d", "question_type": "factual_recall", "answer": "Slide Risks", "family_id": "dev_family_048", "condition": "unresolved"}
+{"id": "fcb60789658f1af08b2fe30d", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_048", "condition": "unresolved"}
+{"id": "fcb60789658f1af08b2fe30d", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_048", "condition": "unresolved"}
+{"id": "fd4449e71e60a8e9137d2999", "question_type": "factual_recall", "answer": "Chart Usage", "family_id": "dev_family_028", "condition": "accepted"}
+{"id": "fd4449e71e60a8e9137d2999", "question_type": "reference_resolution", "answer": "Chart Usage", "family_id": "dev_family_028", "condition": "accepted"}
+{"id": "fd4449e71e60a8e9137d2999", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_028", "condition": "accepted"}
+{"id": "fd5045a39c10384fb1ed17aa", "question_type": "factual_recall", "answer": "Document Summary", "family_id": "dev_family_045", "condition": "accepted"}
+{"id": "fd5045a39c10384fb1ed17aa", "question_type": "reference_resolution", "answer": "Document Summary", "family_id": "dev_family_045", "condition": "accepted"}
+{"id": "fd5045a39c10384fb1ed17aa", "question_type": "grounding_status", "answer": "ACCEPTED", "family_id": "dev_family_045", "condition": "accepted"}
+{"id": "fd91d0a6a86d2b93d9be65e9", "question_type": "factual_recall", "answer": "Folder North", "family_id": "dev_family_074", "condition": "unresolved"}
+{"id": "fd91d0a6a86d2b93d9be65e9", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_074", "condition": "unresolved"}
+{"id": "fd91d0a6a86d2b93d9be65e9", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_074", "condition": "unresolved"}
+{"id": "ff80326baf3367fd0eb89057", "question_type": "factual_recall", "answer": "Folder East", "family_id": "dev_family_038", "condition": "unresolved"}
+{"id": "ff80326baf3367fd0eb89057", "question_type": "reference_resolution", "answer": "UNRESOLVED", "family_id": "dev_family_038", "condition": "unresolved"}
+{"id": "ff80326baf3367fd0eb89057", "question_type": "grounding_status", "answer": "PENDING", "family_id": "dev_family_038", "condition": "unresolved"}

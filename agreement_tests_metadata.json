@@ -1,0 +1,39 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "quantization": "bitsandbytes NF4, float16 compute",
+  "gpu": "Tesla T4",
+  "torch": "2.14.1+cu130",
+  "transformers": "4.51.3",
+  "bitsandbytes": "0.50.2",
+  "batch_size": 8,
+  "do_sample": false,
+  "memory_budget": 256,
+  "update_blocks": 4,
+  "answer_max_new_tokens": 24,
+  "prompt_file_sha256": "239eec8fa530ac154c00010cee03fb744c64b8e8dfa43a5ab6e4be7ce028e9d9",
+  "unique_generations": {
+    "prose block 1": 139,
+    "events block 1": 139,
+    "prose block 2": 202,
+    "events block 2": 164,
+    "prose block 3": 240,
+    "events block 3": 153,
+    "prose block 4": 318,
+    "events block 4": 197,
+    "answering": 2334
+  },
+  "diagnostics": {
+    "prose_over_budget": 0,
+    "event_true_positive": 79,
+    "event_predicted": 202,
+    "event_gold": 1600,
+    "unparseable_event_lines": 1078
+  },
+  "elapsed_seconds": 2601,
+  "memory_tokens_mean": {
+    "grounding_aware_prose": 63.83,
+    "predicted_agreement_state": 27.86,
+    "gold_agreement_state": 128.87
+  }
+}

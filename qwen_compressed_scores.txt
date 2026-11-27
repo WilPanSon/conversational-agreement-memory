@@ -1,0 +1,38 @@
+
+METHOD: qwen_extractive_128
+Coverage: 960/960 (0 missing)
+factual_recall         all                 : 110/320 = 0.344 | coverage 320/320 | invalid 51
+factual_recall         condition:accepted  : 28/80 = 0.350 | coverage 80/80 | invalid 13
+factual_recall         condition:rejected  : 27/80 = 0.338 | coverage 80/80 | invalid 12
+factual_recall         condition:revised   : 28/80 = 0.350 | coverage 80/80 | invalid 13
+factual_recall         condition:unresolved: 27/80 = 0.338 | coverage 80/80 | invalid 13
+grounding_status       all                 : 143/320 = 0.447 | coverage 320/320 | invalid 0
+grounding_status       condition:accepted  : 21/80 = 0.263 | coverage 80/80 | invalid 0
+grounding_status       condition:rejected  : 35/80 = 0.438 | coverage 80/80 | invalid 0
+grounding_status       condition:revised   : 19/80 = 0.237 | coverage 80/80 | invalid 0
+grounding_status       condition:unresolved: 68/80 = 0.850 | coverage 80/80 | invalid 0
+reference_resolution   all                 : 219/320 = 0.684 | coverage 320/320 | invalid 0
+reference_resolution   condition:accepted  : 24/80 = 0.300 | coverage 80/80 | invalid 0
+reference_resolution   condition:rejected  : 73/80 = 0.912 | coverage 80/80 | invalid 0
+reference_resolution   condition:revised   : 51/80 = 0.637 | coverage 80/80 | invalid 0
+reference_resolution   condition:unresolved: 71/80 = 0.887 | coverage 80/80 | invalid 0
+False agreement rate (valid outputs): 16/160 = 0.100 | invalid 0
+
+METHOD: qwen_extractive_256
+Coverage: 960/960 (0 missing)
+factual_recall         all                 : 212/320 = 0.662 | coverage 320/320 | invalid 2
+factual_recall         condition:accepted  : 59/80 = 0.738 | coverage 80/80 | invalid 1
+factual_recall         condition:rejected  : 47/80 = 0.588 | coverage 80/80 | invalid 0
+factual_recall         condition:revised   : 55/80 = 0.688 | coverage 80/80 | invalid 1
+factual_recall         condition:unresolved: 51/80 = 0.637 | coverage 80/80 | invalid 0
+grounding_status       all                 : 130/320 = 0.406 | coverage 320/320 | invalid 0
+grounding_status       condition:accepted  : 8/80 = 0.100 | coverage 80/80 | invalid 0
+grounding_status       condition:rejected  : 20/80 = 0.250 | coverage 80/80 | invalid 0
+grounding_status       condition:revised   : 25/80 = 0.312 | coverage 80/80 | invalid 0
+grounding_status       condition:unresolved: 77/80 = 0.963 | coverage 80/80 | invalid 0
+reference_resolution   all                 : 256/320 = 0.800 | coverage 320/320 | invalid 0
+reference_resolution   condition:accepted  : 38/80 = 0.475 | coverage 80/80 | invalid 0
+reference_resolution   condition:rejected  : 70/80 = 0.875 | coverage 80/80 | invalid 0
+reference_resolution   condition:revised   : 76/80 = 0.950 | coverage 80/80 | invalid 0
+reference_resolution   condition:unresolved: 72/80 = 0.900 | coverage 80/80 | invalid 0
+False agreement rate (valid outputs): 18/160 = 0.113 | invalid 0

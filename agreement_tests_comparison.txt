@@ -1,0 +1,20 @@
+Exact event extraction: 79/202 precision, 79/1600 recall
+Mean memory tokens: {'grounding_aware_prose': 63.83, 'predicted_agreement_state': 27.86, 'gold_agreement_state': 128.87}
+predicted_agreement_state vs grounding_aware_prose, reference_resolution: +9.06 pp [95% family-bootstrap interval +3.44, +15.00]
+predicted_agreement_state vs grounding_aware_prose, factual_recall: +32.81 pp [95% family-bootstrap interval +24.06, +41.56]
+predicted_agreement_state vs grounding_aware_prose, grounding_status: -0.31 pp [95% family-bootstrap interval -3.44, +2.81]
+gold_agreement_state vs predicted_agreement_state, reference_resolution: -31.87 pp [95% family-bootstrap interval -37.50, -26.25]
+gold_agreement_state vs predicted_agreement_state, factual_recall: +40.00 pp [95% family-bootstrap interval +29.06, +50.94]
+gold_agreement_state vs predicted_agreement_state, grounding_status: +19.69 pp [95% family-bootstrap interval +14.06, +25.31]
+
+predicted_state before the answer model
+accepted: correct current state 6/80, correct original proposal status 6/80
+rejected: correct current state 80/80, correct original proposal status 8/80
+revised: correct current state 8/80, correct original proposal status 0/80
+unresolved: correct current state 79/80, correct original proposal status 0/80
+
+gold_state before the answer model
+accepted: correct current state 80/80, correct original proposal status 80/80
+rejected: correct current state 80/80, correct original proposal status 80/80
+revised: correct current state 80/80, correct original proposal status 80/80
+unresolved: correct current state 80/80, correct original proposal status 80/80

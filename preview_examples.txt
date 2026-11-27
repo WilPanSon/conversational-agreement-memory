@@ -1,0 +1,128 @@
+===== dev_family_001 | accepted | 77233a7b7cf39384716beda2 =====
+01. A: Let's settle some internal labels while we work through the benchmark runs.
+02. B: That makes sense. There are several similar items on the list, so labels might help.
+03. A: I've put the candidate models into the shared planning sheet so we can compare them side by side.
+04. B: I see the entries. It will help if we distinguish decisions from suggestions while we work.
+05. A: For the sake of our joint notes, my suggestion is Atlas for Model Spruce. Is that okay?
+06. B: Confirmed. When either of us says Atlas, we mean Model Spruce.
+07. A: I checked the project notes from yesterday and marked which items still need another pass.
+08. B: Thanks. Please make sure the notes don't silently turn tentative labels into final decisions.
+09. A: For a separate entry, could we use Ember as the short name for Model Willow?
+10. B: Yes. I agree that Ember will refer to Model Willow.
+11. A: There's also a separate issue about the benchmark runs; I'll flag it without changing any existing names.
+12. B: Good idea. Let's keep that issue on the list until we check the remaining details.
+13. A: I propose we call Model Cedar Tangent; that is a separate naming decision.
+14. B: Agreed. Tangent refers to Model Cedar for both of us.
+15. A: I added a note comparing the alternatives, including the relevant constraints from the project brief.
+16. B: I read it. We can keep the comparison separate from our naming decisions.
+17. A: We still need to check consistency across the project notes and the discussion transcript.
+18. B: I'll check both sources and make sure unresolved naming questions remain marked as open.
+19. A: For our final secondary label, could Aurora refer to Model Aspen?
+20. B: Yes. We both agree that Aurora names Model Aspen.
+21. A: Regardless of earlier suggestions, could we now agree to use Atlas for Model Elm?
+22. B: Let's leave that alternative open until our next discussion.
+23. A: Let's finish this pass by checking that every entry has a clear explanation in the shared notes.
+24. B: I can do that. The remaining tasks do not require changing the naming conventions again.
+factual_recall: Which model did Speaker A first suggest using the label 'Atlas' for? Answer with one candidate entity exactly.
+  GOLD: Model Spruce
+reference_resolution: At the end of this conversation, which model do Speakers A and B mutually use 'Atlas' to refer to? Answer with one candidate entity exactly, or UNRESOLVED if no shared convention has been established.
+  GOLD: Model Spruce
+grounding_status: What is the final status of the first proposal for the label 'Atlas'? Choose one: ACCEPTED, REJECTED, PENDING, SUPERSEDED.
+  GOLD: ACCEPTED
+
+===== dev_family_001 | rejected | 59eb22a1e3ef5921392d8bda =====
+01. A: Let's settle some internal labels while we work through the benchmark runs.
+02. B: That makes sense. There are several similar items on the list, so labels might help.
+03. A: I've put the candidate models into the shared planning sheet so we can compare them side by side.
+04. B: I see the entries. It will help if we distinguish decisions from suggestions while we work.
+05. A: For the sake of our joint notes, my suggestion is Atlas for Model Spruce. Is that okay?
+06. B: No. I am explicitly declining the proposal to call Model Spruce Atlas.
+07. A: I checked the project notes from yesterday and marked which items still need another pass.
+08. B: Thanks. Please make sure the notes don't silently turn tentative labels into final decisions.
+09. A: For a separate entry, could we use Ember as the short name for Model Willow?
+10. B: Yes. I agree that Ember will refer to Model Willow.
+11. A: There's also a separate issue about the benchmark runs; I'll flag it without changing any existing names.
+12. B: Good idea. Let's keep that issue on the list until we check the remaining details.
+13. A: I propose we call Model Cedar Tangent; that is a separate naming decision.
+14. B: Agreed. Tangent refers to Model Cedar for both of us.
+15. A: I added a note comparing the alternatives, including the relevant constraints from the project brief.
+16. B: I read it. We can keep the comparison separate from our naming decisions.
+17. A: We still need to check consistency across the project notes and the discussion transcript.
+18. B: I'll check both sources and make sure unresolved naming questions remain marked as open.
+19. A: For our final secondary label, could Aurora refer to Model Aspen?
+20. B: Yes. We both agree that Aurora names Model Aspen.
+21. A: Regardless of earlier suggestions, could we now agree to use Atlas for Model Elm?
+22. B: Let's leave that alternative open until our next discussion.
+23. A: Let's finish this pass by checking that every entry has a clear explanation in the shared notes.
+24. B: I can do that. The remaining tasks do not require changing the naming conventions again.
+factual_recall: Which model did Speaker A first suggest using the label 'Atlas' for? Answer with one candidate entity exactly.
+  GOLD: Model Spruce
+reference_resolution: At the end of this conversation, which model do Speakers A and B mutually use 'Atlas' to refer to? Answer with one candidate entity exactly, or UNRESOLVED if no shared convention has been established.
+  GOLD: UNRESOLVED
+grounding_status: What is the final status of the first proposal for the label 'Atlas'? Choose one: ACCEPTED, REJECTED, PENDING, SUPERSEDED.
+  GOLD: REJECTED
+
+===== dev_family_001 | unresolved | a8a466796f042cd74a4c09c4 =====
+01. A: Let's settle some internal labels while we work through the benchmark runs.
+02. B: That makes sense. There are several similar items on the list, so labels might help.
+03. A: I've put the candidate models into the shared planning sheet so we can compare them side by side.
+04. B: I see the entries. It will help if we distinguish decisions from suggestions while we work.
+05. A: For the sake of our joint notes, my suggestion is Atlas for Model Spruce. Is that okay?
+06. B: I can consider it, but I am not confirming that name at this point.
+07. A: I checked the project notes from yesterday and marked which items still need another pass.
+08. B: Thanks. Please make sure the notes don't silently turn tentative labels into final decisions.
+09. A: For a separate entry, could we use Ember as the short name for Model Willow?
+10. B: Yes. I agree that Ember will refer to Model Willow.
+11. A: There's also a separate issue about the benchmark runs; I'll flag it without changing any existing names.
+12. B: Good idea. Let's keep that issue on the list until we check the remaining details.
+13. A: I propose we call Model Cedar Tangent; that is a separate naming decision.
+14. B: Agreed. Tangent refers to Model Cedar for both of us.
+15. A: I added a note comparing the alternatives, including the relevant constraints from the project brief.
+16. B: I read it. We can keep the comparison separate from our naming decisions.
+17. A: We still need to check consistency across the project notes and the discussion transcript.
+18. B: I'll check both sources and make sure unresolved naming questions remain marked as open.
+19. A: For our final secondary label, could Aurora refer to Model Aspen?
+20. B: Yes. We both agree that Aurora names Model Aspen.
+21. A: Regardless of earlier suggestions, could we now agree to use Atlas for Model Elm?
+22. B: Let's leave that alternative open until our next discussion.
+23. A: Let's finish this pass by checking that every entry has a clear explanation in the shared notes.
+24. B: I can do that. The remaining tasks do not require changing the naming conventions again.
+factual_recall: Which model did Speaker A first suggest using the label 'Atlas' for? Answer with one candidate entity exactly.
+  GOLD: Model Spruce
+reference_resolution: At the end of this conversation, which model do Speakers A and B mutually use 'Atlas' to refer to? Answer with one candidate entity exactly, or UNRESOLVED if no shared convention has been established.
+  GOLD: UNRESOLVED
+grounding_status: What is the final status of the first proposal for the label 'Atlas'? Choose one: ACCEPTED, REJECTED, PENDING, SUPERSEDED.
+  GOLD: PENDING
+
+===== dev_family_001 | revised | 18afd2042b3a03d1f0923f2d =====
+01. A: Let's settle some internal labels while we work through the benchmark runs.
+02. B: That makes sense. There are several similar items on the list, so labels might help.
+03. A: I've put the candidate models into the shared planning sheet so we can compare them side by side.
+04. B: I see the entries. It will help if we distinguish decisions from suggestions while we work.
+05. A: For the sake of our joint notes, my suggestion is Atlas for Model Spruce. Is that okay?
+06. B: Confirmed. When either of us says Atlas, we mean Model Spruce.
+07. A: I checked the project notes from yesterday and marked which items still need another pass.
+08. B: Thanks. Please make sure the notes don't silently turn tentative labels into final decisions.
+09. A: For a separate entry, could we use Ember as the short name for Model Willow?
+10. B: Yes. I agree that Ember will refer to Model Willow.
+11. A: There's also a separate issue about the benchmark runs; I'll flag it without changing any existing names.
+12. B: Good idea. Let's keep that issue on the list until we check the remaining details.
+13. A: I propose we call Model Cedar Tangent; that is a separate naming decision.
+14. B: Agreed. Tangent refers to Model Cedar for both of us.
+15. A: I added a note comparing the alternatives, including the relevant constraints from the project brief.
+16. B: I read it. We can keep the comparison separate from our naming decisions.
+17. A: We still need to check consistency across the project notes and the discussion transcript.
+18. B: I'll check both sources and make sure unresolved naming questions remain marked as open.
+19. A: For our final secondary label, could Aurora refer to Model Aspen?
+20. B: Yes. We both agree that Aurora names Model Aspen.
+21. A: Regardless of earlier suggestions, could we now agree to use Atlas for Model Elm?
+22. B: I'll switch to Atlas for Model Elm too.
+23. A: Let's finish this pass by checking that every entry has a clear explanation in the shared notes.
+24. B: I can do that. The remaining tasks do not require changing the naming conventions again.
+factual_recall: Which model did Speaker A first suggest using the label 'Atlas' for? Answer with one candidate entity exactly.
+  GOLD: Model Spruce
+reference_resolution: At the end of this conversation, which model do Speakers A and B mutually use 'Atlas' to refer to? Answer with one candidate entity exactly, or UNRESOLVED if no shared convention has been established.
+  GOLD: Model Elm
+grounding_status: What is the final status of the first proposal for the label 'Atlas'? Choose one: ACCEPTED, REJECTED, PENDING, SUPERSEDED.
+  GOLD: SUPERSEDED
+
